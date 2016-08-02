@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		13FD706EDF2BD2E6413D743D /* Pods_Abstract_BaseTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E12E18664A20F3708B43F116 /* Pods_Abstract_BaseTest.framework */; };
 		1710DE5F1C453AF800912C5B /* Swift_BaseUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1710DE5E1C453AF800912C5B /* Swift_BaseUITests.swift */; };
 		2124DFA01A8DF48000422313 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2124DF9F1A8DF48000422313 /* ViewController.swift */; };
 		212D018E1BB1986B00B34340 /* Swift_BaseTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 212D018D1BB1986B00B34340 /* Swift_BaseTests.swift */; };
@@ -25,8 +26,9 @@
 		21E617E31CE60676005D67E0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 21E617E21CE60676005D67E0 /* LaunchScreen.storyboard */; };
 		2AA988380CB5F0BA261165A1 /* Pods_Abstract_Swift_BaseTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C7E04C71AF697F9F512C851E /* Pods_Abstract_Swift_BaseTests.framework */; };
 		81ABC4E5D5B644C560E0AA21 /* Pods_Abstract_Swift_BaseUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D9091B29869F8A46A78676A7 /* Pods_Abstract_Swift_BaseUITests.framework */; };
+		911BEFD86395C69465C4562C /* Pods_Abstract_BaseTestTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BB50A183FE44986410CE89D9 /* Pods_Abstract_BaseTestTests.framework */; };
+		E1ABFED542D3F87C9DC18117 /* Pods_Abstract_BaseTestUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 00AA804998F2D4A399788246 /* Pods_Abstract_BaseTestUITests.framework */; };
 		E7566D9F1A1F85CB00DE3010 /* Main_Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E7566DA11A1F85CB00DE3010 /* Main_Storyboard.storyboard */; };
-		EEC725679E678BA791351397 /* Pods_Abstract_Swift_Base.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 71DE0E16F1FA73404577138C /* Pods_Abstract_Swift_Base.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXBuildRule section */
@@ -58,21 +60,22 @@
 			containerPortal = 21DB300719DD2289003A418D /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 21DB300E19DD2289003A418D;
-			remoteInfo = "BaseTest";
+			remoteInfo = BaseTest;
 		};
 		212D01901BB1986B00B34340 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 21DB300719DD2289003A418D /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 21DB300E19DD2289003A418D;
-			remoteInfo = "BaseTest";
+			remoteInfo = BaseTest;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		00AA804998F2D4A399788246 /* Pods_Abstract_BaseTestUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Abstract_BaseTestUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		020C4A5E30B743EDD370DB89 /* Pods-Abstract-BaseTest.test staging.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Abstract-BaseTest.test staging.xcconfig"; path = "Pods/Target Support Files/Pods-Abstract-BaseTest/Pods-Abstract-BaseTest.test staging.xcconfig"; sourceTree = "<group>"; };
 		1218E154FF6E17259B67BF8D /* Pods.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		1710DE5C1C453AF700912C5B /* BaseTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "BaseTestUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1710DE5C1C453AF700912C5B /* BaseTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BaseTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1710DE5E1C453AF800912C5B /* Swift_BaseUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift_BaseUITests.swift; sourceTree = "<group>"; };
 		1710DE601C453AF800912C5B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		194478471AAF90AF00A34744 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
@@ -81,7 +84,7 @@
 		19D856C71AB5EDDF0014C459 /* .travis.yml */ = {isa = PBXFileReference; lastKnownFileType = text; path = .travis.yml; sourceTree = SOURCE_ROOT; };
 		1EEA300C1693C74958C4FE90 /* Pods-Abstract-BaseTest.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Abstract-BaseTest.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Abstract-BaseTest/Pods-Abstract-BaseTest.debug.xcconfig"; sourceTree = "<group>"; };
 		2124DF9F1A8DF48000422313 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		212D018B1BB1986B00B34340 /* BaseTestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "BaseTestTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		212D018B1BB1986B00B34340 /* BaseTestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BaseTestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		212D018D1BB1986B00B34340 /* Swift_BaseTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift_BaseTests.swift; sourceTree = "<group>"; };
 		212D018F1BB1986B00B34340 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		213B89BE19F01A1E005D3749 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -92,18 +95,18 @@
 		21513BBD19EBCBFA00EE6273 /* MediaPlayer.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MediaPlayer.framework; path = System/Library/Frameworks/MediaPlayer.framework; sourceTree = SDKROOT; };
 		2158286B1A91E2F200833BE6 /* mogend.sh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; name = mogend.sh; path = Scripts/mogend.sh; sourceTree = "<group>"; };
 		2158286E1A91E56600833BE6 /* APIManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = APIManager.swift; sourceTree = "<group>"; };
-		218C64B71BA078BA00EEEDF1 /* BaseTest.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = "BaseTest.xcdatamodel"; sourceTree = "<group>"; };
+		218C64B71BA078BA00EEEDF1 /* BaseTest.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = BaseTest.xcdatamodel; sourceTree = "<group>"; };
 		218C64BB1BA07D3800EEEDF1 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Main_Storyboard.strings; sourceTree = "<group>"; };
 		218C64C21BA07E1F00EEEDF1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Base; path = Base.lproj/Localizable.strings; sourceTree = "<group>"; };
 		218C64C31BA07E4300EEEDF1 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Localizable.strings; sourceTree = "<group>"; };
 		21C9F2DF19E833300084D18D /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
-		21DB300F19DD2289003A418D /* BaseTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "BaseTest.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		21DB300F19DD2289003A418D /* BaseTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BaseTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		21DB301319DD2289003A418D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		21DB301419DD2289003A418D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		21DB301E19DD2289003A418D /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		21DB303819DD2341003A418D /* BridgeHeader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BridgeHeader.h; sourceTree = "<group>"; };
 		21DB304819DD2D6D003A418D /* Constants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
-		21E157E11BB3EDF40041FCE4 /* FSTestHelpers.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = FSTestHelpers.swift; path = "BaseTestTests/FSTestHelpers.swift"; sourceTree = "<group>"; };
+		21E157E11BB3EDF40041FCE4 /* FSTestHelpers.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = FSTestHelpers.swift; path = BaseTestTests/FSTestHelpers.swift; sourceTree = "<group>"; };
 		21E617E21CE60676005D67E0 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 		21E617E41CE61BBF005D67E0 /* generate_entities.sh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = generate_entities.sh; sourceTree = SOURCE_ROOT; };
 		24CD8CBBB8A679E300A592E5 /* Pods-Abstract-BaseTest.test.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Abstract-BaseTest.test.xcconfig"; path = "Pods/Target Support Files/Pods-Abstract-BaseTest/Pods-Abstract-BaseTest.test.xcconfig"; sourceTree = "<group>"; };
@@ -125,9 +128,11 @@
 		B27D5D57B204407114491374 /* Pods-Abstract-BaseTestUITests.appstore.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Abstract-BaseTestUITests.appstore.xcconfig"; path = "Pods/Target Support Files/Pods-Abstract-BaseTestUITests/Pods-Abstract-BaseTestUITests.appstore.xcconfig"; sourceTree = "<group>"; };
 		B4B0F73B11F25FEB89C85F54 /* Pods-Abstract-BaseTestTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Abstract-BaseTestTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-Abstract-BaseTestTests/Pods-Abstract-BaseTestTests.release.xcconfig"; sourceTree = "<group>"; };
 		B8D82C4F4021CFF6F5F5CC68 /* Pods-Abstract-BaseTestUITests.appstore debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Abstract-BaseTestUITests.appstore debug.xcconfig"; path = "Pods/Target Support Files/Pods-Abstract-BaseTestUITests/Pods-Abstract-BaseTestUITests.appstore debug.xcconfig"; sourceTree = "<group>"; };
+		BB50A183FE44986410CE89D9 /* Pods_Abstract_BaseTestTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Abstract_BaseTestTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C7E04C71AF697F9F512C851E /* Pods_Abstract_Swift_BaseTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Abstract_Swift_BaseTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D36E011C9F5B75FAD1EAB225 /* Pods-Abstract-BaseTestUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Abstract-BaseTestUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-Abstract-BaseTestUITests/Pods-Abstract-BaseTestUITests.release.xcconfig"; sourceTree = "<group>"; };
 		D9091B29869F8A46A78676A7 /* Pods_Abstract_Swift_BaseUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Abstract_Swift_BaseUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		E12E18664A20F3708B43F116 /* Pods_Abstract_BaseTest.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Abstract_BaseTest.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E52012F8C989ECF5309835D0 /* Pods-Abstract-BaseTestTests.appstore debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Abstract-BaseTestTests.appstore debug.xcconfig"; path = "Pods/Target Support Files/Pods-Abstract-BaseTestTests/Pods-Abstract-BaseTestTests.appstore debug.xcconfig"; sourceTree = "<group>"; };
 		E7566DA01A1F85CB00DE3010 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main_Storyboard.storyboard; sourceTree = "<group>"; };
 		EE03134474C0070BF8DA767B /* Pods-Abstract-BaseTest.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Abstract-BaseTest.release.xcconfig"; path = "Pods/Target Support Files/Pods-Abstract-BaseTest/Pods-Abstract-BaseTest.release.xcconfig"; sourceTree = "<group>"; };
@@ -140,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				81ABC4E5D5B644C560E0AA21 /* Pods_Abstract_Swift_BaseUITests.framework in Frameworks */,
+				E1ABFED542D3F87C9DC18117 /* Pods_Abstract_BaseTestUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -148,6 +154,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2AA988380CB5F0BA261165A1 /* Pods_Abstract_Swift_BaseTests.framework in Frameworks */,
+				911BEFD86395C69465C4562C /* Pods_Abstract_BaseTestTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -156,7 +163,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				213B89BF19F01A1E005D3749 /* CoreGraphics.framework in Frameworks */,
-				EEC725679E678BA791351397 /* Pods_Abstract_Swift_Base.framework in Frameworks */,
+				13FD706EDF2BD2E6413D743D /* Pods_Abstract_BaseTest.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -169,7 +176,7 @@
 				1710DE5E1C453AF800912C5B /* Swift_BaseUITests.swift */,
 				1710DE601C453AF800912C5B /* Info.plist */,
 			);
-			path = "BaseTestUITests";
+			path = BaseTestUITests;
 			sourceTree = "<group>";
 		};
 		196D6E161BAB0736000B7997 /* Helpers */ = {
@@ -215,7 +222,7 @@
 				212D018F1BB1986B00B34340 /* Info.plist */,
 			);
 			name = UnitTests;
-			path = "BaseTestTests";
+			path = BaseTestTests;
 			sourceTree = "<group>";
 		};
 		215828691A91E2E000833BE6 /* Scripts */ = {
@@ -290,7 +297,7 @@
 				E736C5A41A252B1500B8986E /* Controllers */,
 				21DB301219DD2289003A418D /* Supporting Files */,
 			);
-			path = "BaseTest";
+			path = BaseTest;
 			sourceTree = "<group>";
 		};
 		21DB301219DD2289003A418D /* Supporting Files */ = {
@@ -347,6 +354,9 @@
 				71DE0E16F1FA73404577138C /* Pods_Abstract_Swift_Base.framework */,
 				C7E04C71AF697F9F512C851E /* Pods_Abstract_Swift_BaseTests.framework */,
 				D9091B29869F8A46A78676A7 /* Pods_Abstract_Swift_BaseUITests.framework */,
+				E12E18664A20F3708B43F116 /* Pods_Abstract_BaseTest.framework */,
+				BB50A183FE44986410CE89D9 /* Pods_Abstract_BaseTestTests.framework */,
+				00AA804998F2D4A399788246 /* Pods_Abstract_BaseTestUITests.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -381,19 +391,19 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 1710DE6B1C453AF800912C5B /* Build configuration list for PBXNativeTarget "BaseTestUITests" */;
 			buildPhases = (
-				89E91AAF0FB90E6F0FF929E5 /* 📦 Check Pods Manifest.lock */,
+				89E91AAF0FB90E6F0FF929E5 /* [CP] Check Pods Manifest.lock */,
 				1710DE581C453AF700912C5B /* Sources */,
 				1710DE591C453AF700912C5B /* Frameworks */,
 				1710DE5A1C453AF700912C5B /* Resources */,
-				0785C3FD82F5A4CEF5C1AC4F /* 📦 Copy Pods Resources */,
+				0785C3FD82F5A4CEF5C1AC4F /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 				1710DE621C453AF800912C5B /* PBXTargetDependency */,
 			);
-			name = "BaseTestUITests";
-			productName = "BaseTestUITests";
+			name = BaseTestUITests;
+			productName = BaseTestUITests;
 			productReference = 1710DE5C1C453AF700912C5B /* BaseTestUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
@@ -401,20 +411,20 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 212D01921BB1986B00B34340 /* Build configuration list for PBXNativeTarget "BaseTestTests" */;
 			buildPhases = (
-				0ACA543E4B3B0E6EB48E63C8 /* 📦 Check Pods Manifest.lock */,
+				0ACA543E4B3B0E6EB48E63C8 /* [CP] Check Pods Manifest.lock */,
 				212D01871BB1986B00B34340 /* Sources */,
 				212D01881BB1986B00B34340 /* Frameworks */,
 				212D01891BB1986B00B34340 /* Resources */,
-				1F35F343FE9DD3287707261D /* 📦 Embed Pods Frameworks */,
-				27B807D70486544FDB85DAA6 /* 📦 Copy Pods Resources */,
+				1F35F343FE9DD3287707261D /* [CP] Embed Pods Frameworks */,
+				27B807D70486544FDB85DAA6 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 				212D01911BB1986B00B34340 /* PBXTargetDependency */,
 			);
-			name = "BaseTestTests";
-			productName = "BaseTestTests";
+			name = BaseTestTests;
+			productName = BaseTestTests;
 			productReference = 212D018B1BB1986B00B34340 /* BaseTestTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
@@ -422,13 +432,13 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 21DB303119DD2289003A418D /* Build configuration list for PBXNativeTarget "BaseTest" */;
 			buildPhases = (
-				A6DB15C2BC155A2623DF25F0 /* 📦 Check Pods Manifest.lock */,
+				A6DB15C2BC155A2623DF25F0 /* [CP] Check Pods Manifest.lock */,
 				21DB300B19DD2289003A418D /* Sources */,
 				21DB300C19DD2289003A418D /* Frameworks */,
 				21DB300D19DD2289003A418D /* Resources */,
 				21B3D19F19E6E2B700EF0D52 /* ShellScript */,
-				97E8D7A0CF9962C339626CAC /* 📦 Embed Pods Frameworks */,
-				6A105BDE6BBF4E1ACD2AAE0F /* 📦 Copy Pods Resources */,
+				97E8D7A0CF9962C339626CAC /* [CP] Embed Pods Frameworks */,
+				6A105BDE6BBF4E1ACD2AAE0F /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 				21DB304B19DD32D9003A418D /* PBXBuildRule */,
@@ -436,8 +446,8 @@
 			);
 			dependencies = (
 			);
-			name = "BaseTest";
-			productName = "BaseTest";
+			name = BaseTest;
+			productName = BaseTest;
 			productReference = 21DB300F19DD2289003A418D /* BaseTest.app */;
 			productType = "com.apple.product-type.application";
 		};
@@ -518,14 +528,14 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		0785C3FD82F5A4CEF5C1AC4F /* 📦 Copy Pods Resources */ = {
+		0785C3FD82F5A4CEF5C1AC4F /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
 			);
-			name = "📦 Copy Pods Resources";
+			name = "[CP] Copy Pods Resources";
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -533,14 +543,14 @@
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Abstract-BaseTestUITests/Pods-Abstract-BaseTestUITests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		0ACA543E4B3B0E6EB48E63C8 /* 📦 Check Pods Manifest.lock */ = {
+		0ACA543E4B3B0E6EB48E63C8 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
 			);
-			name = "📦 Check Pods Manifest.lock";
+			name = "[CP] Check Pods Manifest.lock";
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -548,14 +558,14 @@
 			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
 			showEnvVarsInLog = 0;
 		};
-		1F35F343FE9DD3287707261D /* 📦 Embed Pods Frameworks */ = {
+		1F35F343FE9DD3287707261D /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
 			);
-			name = "📦 Embed Pods Frameworks";
+			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -576,14 +586,14 @@
 			shellPath = /bin/sh;
 			shellScript = "#\"${PODS_ROOT}/Fabric/Fabric.framework/run\" api_key build_secret";
 		};
-		27B807D70486544FDB85DAA6 /* 📦 Copy Pods Resources */ = {
+		27B807D70486544FDB85DAA6 /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
 			);
-			name = "📦 Copy Pods Resources";
+			name = "[CP] Copy Pods Resources";
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -591,14 +601,14 @@
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Abstract-BaseTestTests/Pods-Abstract-BaseTestTests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		6A105BDE6BBF4E1ACD2AAE0F /* 📦 Copy Pods Resources */ = {
+		6A105BDE6BBF4E1ACD2AAE0F /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
 			);
-			name = "📦 Copy Pods Resources";
+			name = "[CP] Copy Pods Resources";
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -606,14 +616,14 @@
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Abstract-BaseTest/Pods-Abstract-BaseTest-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		89E91AAF0FB90E6F0FF929E5 /* 📦 Check Pods Manifest.lock */ = {
+		89E91AAF0FB90E6F0FF929E5 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
 			);
-			name = "📦 Check Pods Manifest.lock";
+			name = "[CP] Check Pods Manifest.lock";
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -621,14 +631,14 @@
 			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
 			showEnvVarsInLog = 0;
 		};
-		97E8D7A0CF9962C339626CAC /* 📦 Embed Pods Frameworks */ = {
+		97E8D7A0CF9962C339626CAC /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
 			);
-			name = "📦 Embed Pods Frameworks";
+			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -636,14 +646,14 @@
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Abstract-BaseTest/Pods-Abstract-BaseTest-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		A6DB15C2BC155A2623DF25F0 /* 📦 Check Pods Manifest.lock */ = {
+		A6DB15C2BC155A2623DF25F0 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
 			);
-			name = "📦 Check Pods Manifest.lock";
+			name = "[CP] Check Pods Manifest.lock";
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -734,12 +744,12 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "BaseTestUITests/Info.plist";
+				INFOPLIST_FILE = BaseTestUITests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "FS.BaseTestUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = FS.BaseTestUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_TARGET_NAME = "BaseTest";
+				TEST_TARGET_NAME = BaseTest;
 				USES_XCTRUNNER = YES;
 			};
 			name = Debug;
@@ -751,12 +761,12 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "BaseTestUITests/Info.plist";
+				INFOPLIST_FILE = BaseTestUITests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "FS.BaseTestUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = FS.BaseTestUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_TARGET_NAME = "BaseTest";
+				TEST_TARGET_NAME = BaseTest;
 				USES_XCTRUNNER = YES;
 			};
 			name = "AppStore Debug";
@@ -772,12 +782,12 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "BaseTestUITests/Info.plist";
+				INFOPLIST_FILE = BaseTestUITests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "FS.BaseTestUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = FS.BaseTestUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_TARGET_NAME = "BaseTest";
+				TEST_TARGET_NAME = BaseTest;
 				USES_XCTRUNNER = YES;
 			};
 			name = "Debug Staging";
@@ -789,12 +799,12 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "BaseTestUITests/Info.plist";
+				INFOPLIST_FILE = BaseTestUITests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "FS.BaseTestUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = FS.BaseTestUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_TARGET_NAME = "BaseTest";
+				TEST_TARGET_NAME = BaseTest;
 				USES_XCTRUNNER = YES;
 			};
 			name = Release;
@@ -806,13 +816,13 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "BaseTestUITests/Info.plist";
+				INFOPLIST_FILE = BaseTestUITests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				ONLY_ACTIVE_ARCH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = "FS.BaseTestUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = FS.BaseTestUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_TARGET_NAME = "BaseTest";
+				TEST_TARGET_NAME = BaseTest;
 				USES_XCTRUNNER = YES;
 			};
 			name = Test;
@@ -824,12 +834,12 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "BaseTestUITests/Info.plist";
+				INFOPLIST_FILE = BaseTestUITests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "FS.BaseTestUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = FS.BaseTestUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_TARGET_NAME = "BaseTest";
+				TEST_TARGET_NAME = BaseTest;
 				USES_XCTRUNNER = YES;
 			};
 			name = AppStore;
@@ -841,12 +851,12 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "BaseTestUITests/Info.plist";
+				INFOPLIST_FILE = BaseTestUITests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "FS.BaseTestUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = FS.BaseTestUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_TARGET_NAME = "BaseTest";
+				TEST_TARGET_NAME = BaseTest;
 				USES_XCTRUNNER = YES;
 			};
 			name = "Release Staging";
@@ -858,13 +868,13 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "BaseTestUITests/Info.plist";
+				INFOPLIST_FILE = BaseTestUITests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				ONLY_ACTIVE_ARCH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = "FS.BaseTestUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = FS.BaseTestUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_TARGET_NAME = "BaseTest";
+				TEST_TARGET_NAME = BaseTest;
 				USES_XCTRUNNER = YES;
 			};
 			name = "Test Staging";
@@ -913,8 +923,8 @@
 			baseConfigurationReference = 24CD8CBBB8A679E300A592E5 /* Pods-Abstract-BaseTest.test.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				BUNDLE_DISPLAY_NAME = "BaseTest";
-				BUNDLE_ID = "com.flatstack.BaseTest";
+				BUNDLE_DISPLAY_NAME = BaseTest;
+				BUNDLE_ID = com.flatstack.BaseTest;
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				ENABLE_TESTABILITY = YES;
@@ -925,7 +935,7 @@
 				);
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PREPROCESSOR_DEFINITIONS = "$(inherited)";
-				INFOPLIST_FILE = "BaseTest/Info.plist";
+				INFOPLIST_FILE = BaseTest/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				ONLY_ACTIVE_ARCH = YES;
@@ -936,10 +946,10 @@
 					"\"QuartzCore\"",
 				);
 				OTHER_SWIFT_FLAGS = "$(inherited) -DTEST";
-				PRODUCT_NAME = "BaseTest";
+				PRODUCT_NAME = BaseTest;
 				PROVISIONING_PROFILE = "";
 				SWIFT_INSTALL_OBJC_HEADER = YES;
-				SWIFT_OBJC_BRIDGING_HEADER = "BaseTest/BridgeHeader.h";
+				SWIFT_OBJC_BRIDGING_HEADER = BaseTest/BridgeHeader.h;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				TARGETED_DEVICE_FAMILY = 1;
 			};
@@ -991,7 +1001,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-Staging";
 				BUNDLE_DISPLAY_NAME = "BaseTest Staging";
-				BUNDLE_ID = "com.flatstack.BaseTest.staging";
+				BUNDLE_ID = com.flatstack.BaseTest.staging;
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				ENABLE_TESTABILITY = YES;
@@ -1002,7 +1012,7 @@
 				);
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PREPROCESSOR_DEFINITIONS = "$(inherited)";
-				INFOPLIST_FILE = "BaseTest/Info.plist";
+				INFOPLIST_FILE = BaseTest/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				ONLY_ACTIVE_ARCH = YES;
@@ -1013,10 +1023,10 @@
 					"\"QuartzCore\"",
 				);
 				OTHER_SWIFT_FLAGS = "$(inherited) -DTEST";
-				PRODUCT_NAME = "BaseTest";
+				PRODUCT_NAME = BaseTest;
 				PROVISIONING_PROFILE = "";
 				SWIFT_INSTALL_OBJC_HEADER = YES;
-				SWIFT_OBJC_BRIDGING_HEADER = "BaseTest/BridgeHeader.h";
+				SWIFT_OBJC_BRIDGING_HEADER = BaseTest/BridgeHeader.h;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				TARGETED_DEVICE_FAMILY = 1;
 			};
@@ -1071,8 +1081,8 @@
 			baseConfigurationReference = 98101F9FE1B08B9670240835 /* Pods-Abstract-BaseTest.appstore debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				BUNDLE_DISPLAY_NAME = "BaseTest";
-				BUNDLE_ID = "com.flatstack.BaseTest";
+				BUNDLE_DISPLAY_NAME = BaseTest;
+				BUNDLE_ID = com.flatstack.BaseTest;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				ENABLE_TESTABILITY = YES;
@@ -1083,7 +1093,7 @@
 					"$(PLATFORM_DIR)/Developer/Library/Frameworks",
 				);
 				GCC_PREPROCESSOR_DEFINITIONS = "$(inherited)";
-				INFOPLIST_FILE = "BaseTest/Info.plist";
+				INFOPLIST_FILE = BaseTest/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -1093,10 +1103,10 @@
 					"\"QuartzCore\"",
 				);
 				OTHER_SWIFT_FLAGS = "$(inherited) -DDEBUG";
-				PRODUCT_NAME = "BaseTest";
+				PRODUCT_NAME = BaseTest;
 				PROVISIONING_PROFILE = "";
 				SWIFT_INSTALL_OBJC_HEADER = YES;
-				SWIFT_OBJC_BRIDGING_HEADER = "BaseTest/BridgeHeader.h";
+				SWIFT_OBJC_BRIDGING_HEADER = BaseTest/BridgeHeader.h;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = "AppStore Debug";
@@ -1113,10 +1123,10 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "BaseTestTests/Info.plist";
+				INFOPLIST_FILE = BaseTestTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.flatstack.BaseTestTests";
+				PRODUCT_BUNDLE_IDENTIFIER = com.flatstack.BaseTestTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/BaseTest.app/BaseTest";
 			};
@@ -1130,10 +1140,10 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "BaseTestTests/Info.plist";
+				INFOPLIST_FILE = BaseTestTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.flatstack.BaseTestTests";
+				PRODUCT_BUNDLE_IDENTIFIER = com.flatstack.BaseTestTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/BaseTest.app/BaseTest";
 			};
@@ -1151,10 +1161,10 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "BaseTestTests/Info.plist";
+				INFOPLIST_FILE = BaseTestTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.flatstack.BaseTestTests";
+				PRODUCT_BUNDLE_IDENTIFIER = com.flatstack.BaseTestTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/BaseTest.app/BaseTest";
 			};
@@ -1168,10 +1178,10 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "BaseTestTests/Info.plist";
+				INFOPLIST_FILE = BaseTestTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.flatstack.BaseTestTests";
+				PRODUCT_BUNDLE_IDENTIFIER = com.flatstack.BaseTestTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/BaseTest.app/BaseTest";
 			};
@@ -1186,11 +1196,11 @@
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_OPTIMIZATION_LEVEL = 0;
-				INFOPLIST_FILE = "BaseTestTests/Info.plist";
+				INFOPLIST_FILE = BaseTestTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				ONLY_ACTIVE_ARCH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.flatstack.BaseTestTests";
+				PRODUCT_BUNDLE_IDENTIFIER = com.flatstack.BaseTestTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/BaseTest.app/BaseTest";
@@ -1205,10 +1215,10 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "BaseTestTests/Info.plist";
+				INFOPLIST_FILE = BaseTestTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.flatstack.BaseTestTests";
+				PRODUCT_BUNDLE_IDENTIFIER = com.flatstack.BaseTestTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/BaseTest.app/BaseTest";
 			};
@@ -1222,10 +1232,10 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "BaseTestTests/Info.plist";
+				INFOPLIST_FILE = BaseTestTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.flatstack.BaseTestTests";
+				PRODUCT_BUNDLE_IDENTIFIER = com.flatstack.BaseTestTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/BaseTest.app/BaseTest";
 			};
@@ -1240,11 +1250,11 @@
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_OPTIMIZATION_LEVEL = 0;
-				INFOPLIST_FILE = "BaseTestTests/Info.plist";
+				INFOPLIST_FILE = BaseTestTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				ONLY_ACTIVE_ARCH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.flatstack.BaseTestTests";
+				PRODUCT_BUNDLE_IDENTIFIER = com.flatstack.BaseTestTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/BaseTest.app/BaseTest";
@@ -1339,8 +1349,8 @@
 			baseConfigurationReference = 1EEA300C1693C74958C4FE90 /* Pods-Abstract-BaseTest.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				BUNDLE_DISPLAY_NAME = "BaseTest";
-				BUNDLE_ID = "com.flatstack.BaseTest";
+				BUNDLE_DISPLAY_NAME = BaseTest;
+				BUNDLE_ID = com.flatstack.BaseTest;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				ENABLE_TESTABILITY = YES;
@@ -1351,7 +1361,7 @@
 					"$(PLATFORM_DIR)/Developer/Library/Frameworks",
 				);
 				GCC_PREPROCESSOR_DEFINITIONS = "$(inherited)";
-				INFOPLIST_FILE = "BaseTest/Info.plist";
+				INFOPLIST_FILE = BaseTest/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -1361,10 +1371,10 @@
 					"\"QuartzCore\"",
 				);
 				OTHER_SWIFT_FLAGS = "$(inherited) -DDEBUG";
-				PRODUCT_NAME = "BaseTest";
+				PRODUCT_NAME = BaseTest;
 				PROVISIONING_PROFILE = "";
 				SWIFT_INSTALL_OBJC_HEADER = YES;
-				SWIFT_OBJC_BRIDGING_HEADER = "BaseTest/BridgeHeader.h";
+				SWIFT_OBJC_BRIDGING_HEADER = BaseTest/BridgeHeader.h;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
@@ -1374,8 +1384,8 @@
 			baseConfigurationReference = EE03134474C0070BF8DA767B /* Pods-Abstract-BaseTest.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				BUNDLE_DISPLAY_NAME = "BaseTest";
-				BUNDLE_ID = "com.flatstack.BaseTest";
+				BUNDLE_DISPLAY_NAME = BaseTest;
+				BUNDLE_ID = com.flatstack.BaseTest;
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				FRAMEWORK_SEARCH_PATHS = (
@@ -1384,7 +1394,7 @@
 					"$(DEVELOPER_FRAMEWORKS_DIR)",
 				);
 				GCC_PREPROCESSOR_DEFINITIONS = "$(inherited)";
-				INFOPLIST_FILE = "BaseTest/Info.plist";
+				INFOPLIST_FILE = BaseTest/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -1394,10 +1404,10 @@
 					"\"QuartzCore\"",
 				);
 				OTHER_SWIFT_FLAGS = "$(inherited)";
-				PRODUCT_NAME = "BaseTest";
+				PRODUCT_NAME = BaseTest;
 				PROVISIONING_PROFILE = "";
 				SWIFT_INSTALL_OBJC_HEADER = YES;
-				SWIFT_OBJC_BRIDGING_HEADER = "BaseTest/BridgeHeader.h";
+				SWIFT_OBJC_BRIDGING_HEADER = BaseTest/BridgeHeader.h;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
@@ -1452,7 +1462,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-Staging";
 				BUNDLE_DISPLAY_NAME = "BaseTest Staging";
-				BUNDLE_ID = "com.flatstack.BaseTest.staging";
+				BUNDLE_ID = com.flatstack.BaseTest.staging;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				ENABLE_TESTABILITY = YES;
@@ -1463,7 +1473,7 @@
 					"$(PLATFORM_DIR)/Developer/Library/Frameworks",
 				);
 				GCC_PREPROCESSOR_DEFINITIONS = "$(inherited)";
-				INFOPLIST_FILE = "BaseTest/Info.plist";
+				INFOPLIST_FILE = BaseTest/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -1473,10 +1483,10 @@
 					"\"QuartzCore\"",
 				);
 				OTHER_SWIFT_FLAGS = "$(inherited) -DDEBUG";
-				PRODUCT_NAME = "BaseTest";
+				PRODUCT_NAME = BaseTest;
 				PROVISIONING_PROFILE = "";
 				SWIFT_INSTALL_OBJC_HEADER = YES;
-				SWIFT_OBJC_BRIDGING_HEADER = "BaseTest/BridgeHeader.h";
+				SWIFT_OBJC_BRIDGING_HEADER = BaseTest/BridgeHeader.h;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = "Debug Staging";
@@ -1527,7 +1537,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-Staging";
 				BUNDLE_DISPLAY_NAME = "BaseTest Staging";
-				BUNDLE_ID = "com.flatstack.BaseTest.staging";
+				BUNDLE_ID = com.flatstack.BaseTest.staging;
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				FRAMEWORK_SEARCH_PATHS = (
@@ -1536,7 +1546,7 @@
 					"$(DEVELOPER_FRAMEWORKS_DIR)",
 				);
 				GCC_PREPROCESSOR_DEFINITIONS = "$(inherited)";
-				INFOPLIST_FILE = "BaseTest/Info.plist";
+				INFOPLIST_FILE = BaseTest/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -1546,10 +1556,10 @@
 					"\"QuartzCore\"",
 				);
 				OTHER_SWIFT_FLAGS = "$(inherited)";
-				PRODUCT_NAME = "BaseTest";
+				PRODUCT_NAME = BaseTest;
 				PROVISIONING_PROFILE = "";
 				SWIFT_INSTALL_OBJC_HEADER = YES;
-				SWIFT_OBJC_BRIDGING_HEADER = "BaseTest/BridgeHeader.h";
+				SWIFT_OBJC_BRIDGING_HEADER = BaseTest/BridgeHeader.h;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = "Release Staging";
@@ -1598,8 +1608,8 @@
 			baseConfigurationReference = AF5D1F97F5C59B62E7E84E1B /* Pods-Abstract-BaseTest.appstore.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				BUNDLE_DISPLAY_NAME = "BaseTest";
-				BUNDLE_ID = "com.flatstack.BaseTest";
+				BUNDLE_DISPLAY_NAME = BaseTest;
+				BUNDLE_ID = com.flatstack.BaseTest;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				FRAMEWORK_SEARCH_PATHS = (
@@ -1608,7 +1618,7 @@
 					"$(DEVELOPER_FRAMEWORKS_DIR)",
 				);
 				GCC_PREPROCESSOR_DEFINITIONS = "$(inherited)";
-				INFOPLIST_FILE = "BaseTest/Info.plist";
+				INFOPLIST_FILE = BaseTest/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -1618,10 +1628,10 @@
 					"\"QuartzCore\"",
 				);
 				OTHER_SWIFT_FLAGS = "$(inherited)";
-				PRODUCT_NAME = "BaseTest";
+				PRODUCT_NAME = BaseTest;
 				PROVISIONING_PROFILE = "";
 				SWIFT_INSTALL_OBJC_HEADER = YES;
-				SWIFT_OBJC_BRIDGING_HEADER = "BaseTest/BridgeHeader.h";
+				SWIFT_OBJC_BRIDGING_HEADER = BaseTest/BridgeHeader.h;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = AppStore;
@@ -1698,7 +1708,7 @@
 				218C64B71BA078BA00EEEDF1 /* BaseTest.xcdatamodel */,
 			);
 			currentVersion = 218C64B71BA078BA00EEEDF1 /* BaseTest.xcdatamodel */;
-			path = "BaseTest.xcdatamodeld";
+			path = BaseTest.xcdatamodeld;
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;
 		};

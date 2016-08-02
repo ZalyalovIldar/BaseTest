@@ -26,7 +26,7 @@ class APIManager: NSObject {
     private static let baseURL: NSURL = {
         
         #if TEST
-            return  NSURL(string: "http://httpbin.org/")!
+            return  NSURL(string: "http://httpbin.org/ава")!
         #else
             let host = NSBundle.mainBundle().infoDictionary!["URL_HOST"]
             let version = NSBundle.mainBundle().infoDictionary!["API_VERSION"]

@@ -1,4 +1,4 @@
-framework module Pods_Abstract_Swift_BaseTests {
+framework module Pods_Abstract_BaseTestTests {
   umbrella header "Pods-Abstract-BaseTestTests-umbrella.h"
 
   export *
