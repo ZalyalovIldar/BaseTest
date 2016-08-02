@@ -1,6 +1,6 @@
 //
 //  FSE+UIImage.swift
-//  Swift-Base
+//  BaseTest
 //
 //  Created by Kruperfone on 23.09.15.
 //  Copyright © 2015 Flatstack. All rights reserved.

@@ -5,7 +5,7 @@
 CURRENT_COMMIT_HEAD="$(git rev-parse HEAD)"
 CURRENT_COMMIT_REMOTE="$(git rev-parse origin/master)"
 
-PROJECT_NAME="Swift-Base"
+PROJECT_NAME="BaseTest"
 
 if [ "$CURRENT_COMMIT_HEAD" = "$CURRENT_COMMIT_REMOTE" ]; then
   #Setup git

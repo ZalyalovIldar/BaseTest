@@ -1,6 +1,6 @@
 //
 //  FSHelpers.swift
-//  Swift-Base
+//  BaseTest
 //
 //  Created by Kruperfone on 08.12.14.
 //  Copyright (c) 2014 Flatstack. All rights reserved.

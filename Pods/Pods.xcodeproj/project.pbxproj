@@ -29,7 +29,7 @@
 		27DB4644CB311586956D4E69D03EDECD /* AFNetworking-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C8E5DE044622E44A7159DB7D6C1D60E /* AFNetworking-dummy.m */; };
 		2A77F38FE22978DCED7F724F8C554723 /* NSString+MagicalDataImport.m in Sources */ = {isa = PBXBuildFile; fileRef = ED243C6FF2DAEF325145E84695EE635E /* NSString+MagicalDataImport.m */; };
 		2C43A191D8DD208D26DA0C162330063C /* AFNetworking-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = E34D7FBD909E4E9A90433A46E0B1FB68 /* AFNetworking-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		2C8418710DE82154E3D45C0A5B634D3A /* Pods-Abstract-Swift-BaseTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 5CA72BC3AF8FE3B99E9925ED307784E8 /* Pods-Abstract-Swift-BaseTests-dummy.m */; };
+		2C8418710DE82154E3D45C0A5B634D3A /* Pods-Abstract-BaseTestTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 5CA72BC3AF8FE3B99E9925ED307784E8 /* Pods-Abstract-BaseTestTests-dummy.m */; };
 		301F8AD823893477E2B9E9CBC31F1D9B /* NSManagedObjectModel+MagicalRecord.h in Headers */ = {isa = PBXBuildFile; fileRef = 500518E943DF475241D85E48165BE957 /* NSManagedObjectModel+MagicalRecord.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		3174D49C6CD7F435FF97E52DED12B0D5 /* NSRelationshipDescription+MagicalDataImport.h in Headers */ = {isa = PBXBuildFile; fileRef = 5E5BC8CD0F2BF4C421C3B07F99C46E21 /* NSRelationshipDescription+MagicalDataImport.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		32B280B6F88E5359B67CEDBF1FC04CE0 /* MagicalRecord+Actions.h in Headers */ = {isa = PBXBuildFile; fileRef = E46196141B78BF5A0BACFE461A2145DA /* MagicalRecord+Actions.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -48,7 +48,7 @@
 		47278DCB77975B6063D2702578781B9D /* FSE+Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 242E79DE42C8CCBFF944F0392177A774 /* FSE+Array.swift */; };
 		48A65F1B523A66A65C3D463DD26641CD /* NSEntityDescription+MagicalDataImport.h in Headers */ = {isa = PBXBuildFile; fileRef = 47139A41B26A6236F6831684D5166C55 /* NSEntityDescription+MagicalDataImport.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		49063CFE2BE637CB9319D1F794D3B752 /* NSPersistentStoreCoordinator+MagicalRecord.m in Sources */ = {isa = PBXBuildFile; fileRef = FBCFF90159DE39C8C979F23AE770CDF2 /* NSPersistentStoreCoordinator+MagicalRecord.m */; };
-		4B22859991CF65A88AA021D963B0CC93 /* Pods-Abstract-Swift-BaseUITests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = C002F185677B835087A08357C6CA811A /* Pods-Abstract-Swift-BaseUITests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		4B22859991CF65A88AA021D963B0CC93 /* Pods-Abstract-BaseTestUITests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = C002F185677B835087A08357C6CA811A /* Pods-Abstract-BaseTestUITests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		565DBB9129441D06C3D401E5DF8F1456 /* NSRelationshipDescription+MagicalDataImport.m in Sources */ = {isa = PBXBuildFile; fileRef = E76BBE75F4056DB1620D491CC48DC23C /* NSRelationshipDescription+MagicalDataImport.m */; };
 		59F788596D5BD1EF1033AFBB2AB3E595 /* FSE+UIImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62A26E36C0D2D5EAF10ECA001D6DF628 /* FSE+UIImage.swift */; };
 		5C648FA64F4E630D1FDD4093AE3DFE9B /* NSManagedObjectContext+MagicalObserving.h in Headers */ = {isa = PBXBuildFile; fileRef = D7E5CD384BF4D9315961625189BA11A5 /* NSManagedObjectContext+MagicalObserving.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -63,10 +63,10 @@
 		6FED892127561AFCEC7D866B4C73ECAD /* MagicalRecord-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 162D16DC5F565B03FD8A3436D25DF0A7 /* MagicalRecord-dummy.m */; };
 		7089F36838F4B800F0B3FCE6BCEE780A /* UIRefreshControl+AFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CE8879D0E45960539D4FB8BA5BA97D8 /* UIRefreshControl+AFNetworking.m */; };
 		70B778EC8E66F741693DB5A4621258C8 /* UIActivityIndicatorView+AFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = 9147DD6C112ED94265275F821590F986 /* UIActivityIndicatorView+AFNetworking.m */; };
-		7297745054AD4BA791D6E146C235BA00 /* Pods-Abstract-Swift-Base-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 26FC111C77862223A1BFAC49D1D1BA74 /* Pods-Abstract-Swift-Base-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		7297745054AD4BA791D6E146C235BA00 /* Pods-Abstract-BaseTest-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 26FC111C77862223A1BFAC49D1D1BA74 /* Pods-Abstract-BaseTest-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		793840ADC4B76F038EA45CBAB9C00411 /* AFSecurityPolicy.h in Headers */ = {isa = PBXBuildFile; fileRef = E10EA5D6F5AC55EF4BBD5561594FB945 /* AFSecurityPolicy.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		796974B2B7F09A6545FB3599CAE17327 /* AFURLResponseSerialization.h in Headers */ = {isa = PBXBuildFile; fileRef = 9767EEA36A21B55A75EC4C2ED4F4B13B /* AFURLResponseSerialization.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		7A28E3715F96A24ECAC8D6FF411B72DD /* Pods-Abstract-Swift-Base-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A226B46708C4576A310B5C9B21AD6AC /* Pods-Abstract-Swift-Base-dummy.m */; };
+		7A28E3715F96A24ECAC8D6FF411B72DD /* Pods-Abstract-BaseTest-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A226B46708C4576A310B5C9B21AD6AC /* Pods-Abstract-BaseTest-dummy.m */; };
 		7E0AEE24FBFF0AE843F142BD9077D7EA /* AFImageDownloader.h in Headers */ = {isa = PBXBuildFile; fileRef = 305943AD7FBBC805DF6C4ACD1274B306 /* AFImageDownloader.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		813F360497C515D67049CA30039E867E /* NSManagedObjectContext+MagicalChainSave.m in Sources */ = {isa = PBXBuildFile; fileRef = 4363D414F8C3EE72CC09D1F0026BD62E /* NSManagedObjectContext+MagicalChainSave.m */; };
 		82458864D0CB30150809D33C128F6E71 /* FSHelpers+Swift-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 213BDBD574138C7D02645F69DA7DE391 /* FSHelpers+Swift-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -119,7 +119,7 @@
 		DB872C5121AA79D578F353483C0EE236 /* AFNetworkActivityIndicatorManager.m in Sources */ = {isa = PBXBuildFile; fileRef = CACFA5291256E77A2261D0D2AE6BB63D /* AFNetworkActivityIndicatorManager.m */; };
 		DC3CB82B45D21EF61A5EBB84CD7D5D90 /* AFURLSessionManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 16275834684AADBE2A6E7832D6B3525F /* AFURLSessionManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		DCD812B08A7235B3A271E5A48B8D76FA /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5515698372825624ADED59F314057922 /* CoreData.framework */; };
-		E059F8A50FBF902F3B04901256511848 /* Pods-Abstract-Swift-BaseTests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 2576DDB93E6B48B6A4A09AFA88DFFFA3 /* Pods-Abstract-Swift-BaseTests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E059F8A50FBF902F3B04901256511848 /* Pods-Abstract-BaseTestTests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 2576DDB93E6B48B6A4A09AFA88DFFFA3 /* Pods-Abstract-BaseTestTests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E2D710D57A111023E2247B32A6369355 /* UIKit+AFNetworking.h in Headers */ = {isa = PBXBuildFile; fileRef = 8582EDC8A58F42FD5423A531F5C8B032 /* UIKit+AFNetworking.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E2F586A7B767B20A354F5D4B5F267C93 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 56EDFC2B84B90520584454F48B5F7CEA /* QuartzCore.framework */; };
 		E3A97FC13E0B19F080172C7CA01167E7 /* NSManagedObject+MagicalAggregation.h in Headers */ = {isa = PBXBuildFile; fileRef = 8158E5690DA2C832199DE22024EAC059 /* NSManagedObject+MagicalAggregation.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -135,7 +135,7 @@
 		F3086DFFAA5BBA34A0A5AA264BCD64A5 /* NSManagedObject+MagicalAggregation.m in Sources */ = {isa = PBXBuildFile; fileRef = 2215F9D8111C01008A2F1BFBEC18F538 /* NSManagedObject+MagicalAggregation.m */; };
 		F3FD71DF03D266FF20AE82A7D5D679CF /* UIButton+AFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = 0DD7CE2FCAB7A05ECC16502C1F920DD2 /* UIButton+AFNetworking.m */; };
 		F7B7200B1DD5F3AA6EF4FB8A7E4D5675 /* NSNumber+MagicalDataImport.m in Sources */ = {isa = PBXBuildFile; fileRef = 2633B77D308CDB2394A5A4E34357CC54 /* NSNumber+MagicalDataImport.m */; };
-		F8A2BC53511427596FC93970EDB68F96 /* Pods-Abstract-Swift-BaseUITests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B4172D2845F0E1FDC8D4CADB741E264 /* Pods-Abstract-Swift-BaseUITests-dummy.m */; };
+		F8A2BC53511427596FC93970EDB68F96 /* Pods-Abstract-BaseTestUITests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B4172D2845F0E1FDC8D4CADB741E264 /* Pods-Abstract-BaseTestUITests-dummy.m */; };
 		F8FCBCBA76CE1F4ABDE17D9D6D10DDCC /* FSE+UITextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6DB804A494258B5473F592C8F694D27 /* FSE+UITextField.swift */; };
 		F8FDE00AA639609A248ABB2022049BB3 /* AFURLSessionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 41537237B4179830B68885792705D9A9 /* AFURLSessionManager.m */; };
 		F9C327FAA4DCAFB43A38C93D96E139F6 /* MagicalRecord+Options.h in Headers */ = {isa = PBXBuildFile; fileRef = AD0BC490D3CC90BE894F4718D24D0C0D /* MagicalRecord+Options.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -221,26 +221,26 @@
 		0DB6389F39C1C3628D3AD0731D9029AD /* NSString+MagicalDataImport.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSString+MagicalDataImport.h"; path = "MagicalRecord/Categories/DataImport/NSString+MagicalDataImport.h"; sourceTree = "<group>"; };
 		0DD7CE2FCAB7A05ECC16502C1F920DD2 /* UIButton+AFNetworking.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIButton+AFNetworking.m"; path = "UIKit+AFNetworking/UIButton+AFNetworking.m"; sourceTree = "<group>"; };
 		115B4BFE461BB6593CE23E22A50CC97F /* NSManagedObjectContext+MagicalSaves.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSManagedObjectContext+MagicalSaves.m"; path = "MagicalRecord/Categories/NSManagedObjectContext/NSManagedObjectContext+MagicalSaves.m"; sourceTree = "<group>"; };
-		133837E9A2820D9FF2193315947E24A6 /* Pods-Abstract-Swift-Base.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Abstract-Swift-Base.debug.xcconfig"; sourceTree = "<group>"; };
+		133837E9A2820D9FF2193315947E24A6 /* Pods-Abstract-BaseTest.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Abstract-BaseTest.debug.xcconfig"; sourceTree = "<group>"; };
 		13B1CC1FABD12684F28CC637C3E8703E /* UIRefreshControl+AFNetworking.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIRefreshControl+AFNetworking.h"; path = "UIKit+AFNetworking/UIRefreshControl+AFNetworking.h"; sourceTree = "<group>"; };
 		150367877E19C01A9658773CE652254C /* MagicalRecordInternal.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MagicalRecordInternal.h; path = MagicalRecord/Core/MagicalRecordInternal.h; sourceTree = "<group>"; };
 		16275834684AADBE2A6E7832D6B3525F /* AFURLSessionManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFURLSessionManager.h; path = AFNetworking/AFURLSessionManager.h; sourceTree = "<group>"; };
 		162D16DC5F565B03FD8A3436D25DF0A7 /* MagicalRecord-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "MagicalRecord-dummy.m"; sourceTree = "<group>"; };
 		1632C92BE044A69A8BB9294A6989EEE5 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		175D51CCCD7F27671472C2E56657286B /* Pods-Abstract-Swift-BaseTests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Abstract-Swift-BaseTests-resources.sh"; sourceTree = "<group>"; };
-		1780ECDAD9C3685A1B015B7364C2D90F /* Pods-Abstract-Swift-BaseUITests.appstore.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Abstract-Swift-BaseUITests.appstore.xcconfig"; sourceTree = "<group>"; };
-		18904D86ED9554FAAD8378221C61CEE7 /* Pods-Abstract-Swift-BaseTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Abstract-Swift-BaseTests.debug.xcconfig"; sourceTree = "<group>"; };
-		19021180158DC8C7D65521F768723231 /* Pods-Abstract-Swift-BaseTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Abstract-Swift-BaseTests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		175D51CCCD7F27671472C2E56657286B /* Pods-Abstract-BaseTestTests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Abstract-BaseTestTests-resources.sh"; sourceTree = "<group>"; };
+		1780ECDAD9C3685A1B015B7364C2D90F /* Pods-Abstract-BaseTestUITests.appstore.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Abstract-BaseTestUITests.appstore.xcconfig"; sourceTree = "<group>"; };
+		18904D86ED9554FAAD8378221C61CEE7 /* Pods-Abstract-BaseTestTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Abstract-BaseTestTests.debug.xcconfig"; sourceTree = "<group>"; };
+		19021180158DC8C7D65521F768723231 /* Pods-Abstract-BaseTestTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Abstract-BaseTestTests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		213BDBD574138C7D02645F69DA7DE391 /* FSHelpers+Swift-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FSHelpers+Swift-umbrella.h"; sourceTree = "<group>"; };
-		21A04D41D52ACFB9FC0F17EAE104A2C1 /* Pods-Abstract-Swift-BaseUITests.test.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Abstract-Swift-BaseUITests.test.xcconfig"; sourceTree = "<group>"; };
+		21A04D41D52ACFB9FC0F17EAE104A2C1 /* Pods-Abstract-BaseTestUITests.test.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Abstract-BaseTestUITests.test.xcconfig"; sourceTree = "<group>"; };
 		2215F9D8111C01008A2F1BFBEC18F538 /* NSManagedObject+MagicalAggregation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSManagedObject+MagicalAggregation.m"; path = "MagicalRecord/Categories/NSManagedObject/NSManagedObject+MagicalAggregation.m"; sourceTree = "<group>"; };
 		22B0AE73A93F175FCC32BA759149FBD1 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		23AAB8CEC70A9442A97AD2E619F3C170 /* Pods-Abstract-Swift-BaseTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Abstract-Swift-BaseTests.release.xcconfig"; sourceTree = "<group>"; };
+		23AAB8CEC70A9442A97AD2E619F3C170 /* Pods-Abstract-BaseTestTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Abstract-BaseTestTests.release.xcconfig"; sourceTree = "<group>"; };
 		23E6CE08163FDA057384D0AFE0E5578B /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
 		242E79DE42C8CCBFF944F0392177A774 /* FSE+Array.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "FSE+Array.swift"; path = "Swift/Helpers/FSExtensions/FSE+Array.swift"; sourceTree = "<group>"; };
-		2576DDB93E6B48B6A4A09AFA88DFFFA3 /* Pods-Abstract-Swift-BaseTests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Abstract-Swift-BaseTests-umbrella.h"; sourceTree = "<group>"; };
+		2576DDB93E6B48B6A4A09AFA88DFFFA3 /* Pods-Abstract-BaseTestTests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Abstract-BaseTestTests-umbrella.h"; sourceTree = "<group>"; };
 		2633B77D308CDB2394A5A4E34357CC54 /* NSNumber+MagicalDataImport.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSNumber+MagicalDataImport.m"; path = "MagicalRecord/Categories/DataImport/NSNumber+MagicalDataImport.m"; sourceTree = "<group>"; };
-		26FC111C77862223A1BFAC49D1D1BA74 /* Pods-Abstract-Swift-Base-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Abstract-Swift-Base-umbrella.h"; sourceTree = "<group>"; };
+		26FC111C77862223A1BFAC49D1D1BA74 /* Pods-Abstract-BaseTest-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Abstract-BaseTest-umbrella.h"; sourceTree = "<group>"; };
 		287E20939D6596EB38EC5DD975741817 /* NSPersistentStore+MagicalRecord.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSPersistentStore+MagicalRecord.m"; path = "MagicalRecord/Categories/NSPersistentStore+MagicalRecord.m"; sourceTree = "<group>"; };
 		28C57227AC2521965E72D86F2588F8B0 /* Pods_Abstract_Swift_BaseUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Abstract_Swift_BaseUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D54760DAE4A9DBBF4D2C97B03D2E331 /* AFNetworkReachabilityManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AFNetworkReachabilityManager.m; path = AFNetworking/AFNetworkReachabilityManager.m; sourceTree = "<group>"; };
@@ -248,11 +248,11 @@
 		305943AD7FBBC805DF6C4ACD1274B306 /* AFImageDownloader.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFImageDownloader.h; path = "UIKit+AFNetworking/AFImageDownloader.h"; sourceTree = "<group>"; };
 		30ACEC08A4A5263A04F7C5FFEF30A7B4 /* FSE+UIAlertView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "FSE+UIAlertView.swift"; path = "Swift/Helpers/FSExtensions/FSE+UIAlertView.swift"; sourceTree = "<group>"; };
 		324A633970140877F819B719756D37A3 /* NSManagedObjectModel+MagicalRecord.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSManagedObjectModel+MagicalRecord.m"; path = "MagicalRecord/Categories/NSManagedObjectModel+MagicalRecord.m"; sourceTree = "<group>"; };
-		336C6515D2C59DF0ECAB24D2A2EB7297 /* Pods-Abstract-Swift-Base-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Abstract-Swift-Base-frameworks.sh"; sourceTree = "<group>"; };
+		336C6515D2C59DF0ECAB24D2A2EB7297 /* Pods-Abstract-BaseTest-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Abstract-BaseTest-frameworks.sh"; sourceTree = "<group>"; };
 		341228439F1DD1A0B92FABED8D4A01CB /* FSE+NSDate.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "FSE+NSDate.swift"; path = "Swift/Helpers/FSExtensions/FSE+NSDate.swift"; sourceTree = "<group>"; };
 		369ECFFE83805E1E02089F571CEC0ECC /* NSManagedObjectContext+MagicalThreading.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSManagedObjectContext+MagicalThreading.h"; path = "MagicalRecord/Categories/NSManagedObjectContext/NSManagedObjectContext+MagicalThreading.h"; sourceTree = "<group>"; };
 		3A144842302A939A8BB2AB21C6084416 /* MagicalRecord+ErrorHandling.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "MagicalRecord+ErrorHandling.h"; path = "MagicalRecord/Core/MagicalRecord+ErrorHandling.h"; sourceTree = "<group>"; };
-		3A226B46708C4576A310B5C9B21AD6AC /* Pods-Abstract-Swift-Base-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Abstract-Swift-Base-dummy.m"; sourceTree = "<group>"; };
+		3A226B46708C4576A310B5C9B21AD6AC /* Pods-Abstract-BaseTest-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Abstract-BaseTest-dummy.m"; sourceTree = "<group>"; };
 		3AFD559C586615585FADAC880680EE27 /* FSE+Enumerations.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "FSE+Enumerations.swift"; path = "Swift/Helpers/FSExtensions/FSE+Enumerations.swift"; sourceTree = "<group>"; };
 		3B0709BB0E41E37D344840EEDB4E847B /* UIWebView+AFNetworking.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIWebView+AFNetworking.m"; path = "UIKit+AFNetworking/UIWebView+AFNetworking.m"; sourceTree = "<group>"; };
 		3B659DD9EADB86BF2E45C8FF190874AA /* FSHelpers+Swift-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FSHelpers+Swift-prefix.pch"; sourceTree = "<group>"; };
@@ -262,9 +262,9 @@
 		3FD8DF0E32B1B11394705563D3AA96D6 /* FSHelpers+Swift.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "FSHelpers+Swift.modulemap"; sourceTree = "<group>"; };
 		40AFF6C4C69C2F6E2DD50DCF1877215E /* NSPersistentStore+MagicalRecord.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSPersistentStore+MagicalRecord.h"; path = "MagicalRecord/Categories/NSPersistentStore+MagicalRecord.h"; sourceTree = "<group>"; };
 		41537237B4179830B68885792705D9A9 /* AFURLSessionManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AFURLSessionManager.m; path = AFNetworking/AFURLSessionManager.m; sourceTree = "<group>"; };
-		4217D728C94CDE166E7B0ADB5AABD63E /* Pods-Abstract-Swift-Base.test staging.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Abstract-Swift-Base.test staging.xcconfig"; sourceTree = "<group>"; };
+		4217D728C94CDE166E7B0ADB5AABD63E /* Pods-Abstract-BaseTest.test staging.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Abstract-BaseTest.test staging.xcconfig"; sourceTree = "<group>"; };
 		4363D414F8C3EE72CC09D1F0026BD62E /* NSManagedObjectContext+MagicalChainSave.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSManagedObjectContext+MagicalChainSave.m"; path = "MagicalRecord/Categories/NSManagedObjectContext/NSManagedObjectContext+MagicalChainSave.m"; sourceTree = "<group>"; };
-		461012D670D1FD4BB2567D4F73D27C43 /* Pods-Abstract-Swift-Base.appstore.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Abstract-Swift-Base.appstore.xcconfig"; sourceTree = "<group>"; };
+		461012D670D1FD4BB2567D4F73D27C43 /* Pods-Abstract-BaseTest.appstore.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Abstract-BaseTest.appstore.xcconfig"; sourceTree = "<group>"; };
 		47139A41B26A6236F6831684D5166C55 /* NSEntityDescription+MagicalDataImport.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSEntityDescription+MagicalDataImport.h"; path = "MagicalRecord/Categories/DataImport/NSEntityDescription+MagicalDataImport.h"; sourceTree = "<group>"; };
 		484D9A3D26629FABB3C98E9AC3F01774 /* AFNetworkReachabilityManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFNetworkReachabilityManager.h; path = AFNetworking/AFNetworkReachabilityManager.h; sourceTree = "<group>"; };
 		4D8083DFF1BD5BD46078384ACB01708F /* FSHelpers_Swift.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = FSHelpers_Swift.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -279,12 +279,12 @@
 		56EDFC2B84B90520584454F48B5F7CEA /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.sdk/System/Library/Frameworks/QuartzCore.framework; sourceTree = DEVELOPER_DIR; };
 		570C8C0B1F835E1FA2EB663B9B756A21 /* MagicalRecord+Actions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "MagicalRecord+Actions.m"; path = "MagicalRecord/Core/MagicalRecord+Actions.m"; sourceTree = "<group>"; };
 		582CCF118CBCB6232462895F22CAED26 /* UIWebView+AFNetworking.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIWebView+AFNetworking.h"; path = "UIKit+AFNetworking/UIWebView+AFNetworking.h"; sourceTree = "<group>"; };
-		5CA72BC3AF8FE3B99E9925ED307784E8 /* Pods-Abstract-Swift-BaseTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Abstract-Swift-BaseTests-dummy.m"; sourceTree = "<group>"; };
+		5CA72BC3AF8FE3B99E9925ED307784E8 /* Pods-Abstract-BaseTestTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Abstract-BaseTestTests-dummy.m"; sourceTree = "<group>"; };
 		5D2D4E3A4510EC5C2DC99F6560A57B8E /* FSE+UIView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "FSE+UIView.swift"; path = "Swift/Helpers/FSExtensions/FSE+UIView.swift"; sourceTree = "<group>"; };
-		5D826BE60B03B9AF42EA2997CFB21C05 /* Pods-Abstract-Swift-BaseTests.release staging.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Abstract-Swift-BaseTests.release staging.xcconfig"; sourceTree = "<group>"; };
+		5D826BE60B03B9AF42EA2997CFB21C05 /* Pods-Abstract-BaseTestTests.release staging.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Abstract-BaseTestTests.release staging.xcconfig"; sourceTree = "<group>"; };
 		5E4DE38910078BEF9C9495FD363E54C9 /* AFHTTPSessionManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFHTTPSessionManager.h; path = AFNetworking/AFHTTPSessionManager.h; sourceTree = "<group>"; };
 		5E5BC8CD0F2BF4C421C3B07F99C46E21 /* NSRelationshipDescription+MagicalDataImport.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSRelationshipDescription+MagicalDataImport.h"; path = "MagicalRecord/Categories/DataImport/NSRelationshipDescription+MagicalDataImport.h"; sourceTree = "<group>"; };
-		6265B6C90B31BE74D2BFEF9374304265 /* Pods-Abstract-Swift-BaseTests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Abstract-Swift-BaseTests-frameworks.sh"; sourceTree = "<group>"; };
+		6265B6C90B31BE74D2BFEF9374304265 /* Pods-Abstract-BaseTestTests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Abstract-BaseTestTests-frameworks.sh"; sourceTree = "<group>"; };
 		62A26E36C0D2D5EAF10ECA001D6DF628 /* FSE+UIImage.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "FSE+UIImage.swift"; path = "Swift/Helpers/FSExtensions/FSE+UIImage.swift"; sourceTree = "<group>"; };
 		645CDBFF50F89CABE3E820EC341F406E /* AFNetworkActivityIndicatorManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFNetworkActivityIndicatorManager.h; path = "UIKit+AFNetworking/AFNetworkActivityIndicatorManager.h"; sourceTree = "<group>"; };
 		64C8E1A86CEC7237318E4637D7A15147 /* FSE+UITextView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "FSE+UITextView.swift"; path = "Swift/Helpers/FSExtensions/FSE+UITextView.swift"; sourceTree = "<group>"; };
@@ -296,23 +296,23 @@
 		75773C340C4343539A573B5505624A34 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7775502106AB40DD95AABF6F69FE0C27 /* AFNetworking-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "AFNetworking-prefix.pch"; sourceTree = "<group>"; };
 		78E18DDCCC3170DB9018FE29E740E09B /* MagicalImportFunctions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MagicalImportFunctions.m; path = MagicalRecord/Categories/DataImport/MagicalImportFunctions.m; sourceTree = "<group>"; };
-		7B4172D2845F0E1FDC8D4CADB741E264 /* Pods-Abstract-Swift-BaseUITests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Abstract-Swift-BaseUITests-dummy.m"; sourceTree = "<group>"; };
-		7B8CAF47E94C6D72D599420DC737A162 /* Pods-Abstract-Swift-BaseTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-Abstract-Swift-BaseTests.modulemap"; sourceTree = "<group>"; };
+		7B4172D2845F0E1FDC8D4CADB741E264 /* Pods-Abstract-BaseTestUITests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Abstract-BaseTestUITests-dummy.m"; sourceTree = "<group>"; };
+		7B8CAF47E94C6D72D599420DC737A162 /* Pods-Abstract-BaseTestTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-Abstract-BaseTestTests.modulemap"; sourceTree = "<group>"; };
 		7C6A4488D3D9AFE5231121A2E211BB15 /* NSManagedObjectContext+MagicalObserving.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSManagedObjectContext+MagicalObserving.m"; path = "MagicalRecord/Categories/NSManagedObjectContext/NSManagedObjectContext+MagicalObserving.m"; sourceTree = "<group>"; };
 		7C74A51BE6B7E42F5496FE87FA73EB57 /* NSNumber+MagicalDataImport.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSNumber+MagicalDataImport.h"; path = "MagicalRecord/Categories/DataImport/NSNumber+MagicalDataImport.h"; sourceTree = "<group>"; };
 		7C8E5DE044622E44A7159DB7D6C1D60E /* AFNetworking-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "AFNetworking-dummy.m"; sourceTree = "<group>"; };
 		7CE8879D0E45960539D4FB8BA5BA97D8 /* UIRefreshControl+AFNetworking.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIRefreshControl+AFNetworking.m"; path = "UIKit+AFNetworking/UIRefreshControl+AFNetworking.m"; sourceTree = "<group>"; };
 		7DD67D4F0AE6BB664B356A22B90D8B7E /* NSEntityDescription+MagicalDataImport.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSEntityDescription+MagicalDataImport.m"; path = "MagicalRecord/Categories/DataImport/NSEntityDescription+MagicalDataImport.m"; sourceTree = "<group>"; };
 		808922DE529A2B75CB67789632F8115A /* UIButton+AFNetworking.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIButton+AFNetworking.h"; path = "UIKit+AFNetworking/UIButton+AFNetworking.h"; sourceTree = "<group>"; };
-		811BE53BC6F16D359DB71B97877D588C /* Pods-Abstract-Swift-BaseUITests.appstore debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Abstract-Swift-BaseUITests.appstore debug.xcconfig"; sourceTree = "<group>"; };
+		811BE53BC6F16D359DB71B97877D588C /* Pods-Abstract-BaseTestUITests.appstore debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Abstract-BaseTestUITests.appstore debug.xcconfig"; sourceTree = "<group>"; };
 		814EEB2093080AE2F18E8EA67AE1F1F3 /* AFAutoPurgingImageCache.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFAutoPurgingImageCache.h; path = "UIKit+AFNetworking/AFAutoPurgingImageCache.h"; sourceTree = "<group>"; };
 		8158E5690DA2C832199DE22024EAC059 /* NSManagedObject+MagicalAggregation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSManagedObject+MagicalAggregation.h"; path = "MagicalRecord/Categories/NSManagedObject/NSManagedObject+MagicalAggregation.h"; sourceTree = "<group>"; };
 		81794FC654E2A86E00E594DACE0D726A /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.sdk/System/Library/Frameworks/Security.framework; sourceTree = DEVELOPER_DIR; };
 		81D4F26ED92BCABA02F3C44B26D3AB7C /* AFHTTPSessionManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AFHTTPSessionManager.m; path = AFNetworking/AFHTTPSessionManager.m; sourceTree = "<group>"; };
 		8220CE55D47909AF8F2255947F99F05F /* NSManagedObject+MagicalRecord.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSManagedObject+MagicalRecord.m"; path = "MagicalRecord/Categories/NSManagedObject/NSManagedObject+MagicalRecord.m"; sourceTree = "<group>"; };
 		8582EDC8A58F42FD5423A531F5C8B032 /* UIKit+AFNetworking.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIKit+AFNetworking.h"; path = "UIKit+AFNetworking/UIKit+AFNetworking.h"; sourceTree = "<group>"; };
-		8663B1FB252AABFF771B639E9EAB481E /* Pods-Abstract-Swift-Base-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Abstract-Swift-Base-resources.sh"; sourceTree = "<group>"; };
-		8768CB74047F80A9F6E31C717A34C92F /* Pods-Abstract-Swift-BaseTests.appstore.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Abstract-Swift-BaseTests.appstore.xcconfig"; sourceTree = "<group>"; };
+		8663B1FB252AABFF771B639E9EAB481E /* Pods-Abstract-BaseTest-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Abstract-BaseTest-resources.sh"; sourceTree = "<group>"; };
+		8768CB74047F80A9F6E31C717A34C92F /* Pods-Abstract-BaseTestTests.appstore.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Abstract-BaseTestTests.appstore.xcconfig"; sourceTree = "<group>"; };
 		89C724D70CDC98E5B27F60248FDC954B /* NSManagedObject+MagicalRecord.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSManagedObject+MagicalRecord.h"; path = "MagicalRecord/Categories/NSManagedObject/NSManagedObject+MagicalRecord.h"; sourceTree = "<group>"; };
 		8CDF46EAB73B27580A9CDB0AE0335CC9 /* FSE+String.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "FSE+String.swift"; path = "Swift/Helpers/FSExtensions/FSE+String.swift"; sourceTree = "<group>"; };
 		8DE3981F3E5356D9F7A5A2DC7F8FA6DC /* NSAttributeDescription+MagicalDataImport.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSAttributeDescription+MagicalDataImport.m"; path = "MagicalRecord/Categories/DataImport/NSAttributeDescription+MagicalDataImport.m"; sourceTree = "<group>"; };
@@ -321,9 +321,9 @@
 		916798D524C722E53DF6AC89F1C4F681 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		92559BCB4F33CFD058F0D2590B8A3DD8 /* FSE+UIColor.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "FSE+UIColor.swift"; path = "Swift/Helpers/FSExtensions/FSE+UIColor.swift"; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		948C70A2F9570EFE6162101B289F461A /* Pods-Abstract-Swift-BaseUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Abstract-Swift-BaseUITests.release.xcconfig"; sourceTree = "<group>"; };
+		948C70A2F9570EFE6162101B289F461A /* Pods-Abstract-BaseTestUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Abstract-BaseTestUITests.release.xcconfig"; sourceTree = "<group>"; };
 		949468C036DBD672388CAEF4B7144DF6 /* NSObject+MagicalDataImport.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSObject+MagicalDataImport.h"; path = "MagicalRecord/Categories/DataImport/NSObject+MagicalDataImport.h"; sourceTree = "<group>"; };
-		949B765502F9EFCC6CCCEF46752A4696 /* Pods-Abstract-Swift-Base-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Abstract-Swift-Base-acknowledgements.markdown"; sourceTree = "<group>"; };
+		949B765502F9EFCC6CCCEF46752A4696 /* Pods-Abstract-BaseTest-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Abstract-BaseTest-acknowledgements.markdown"; sourceTree = "<group>"; };
 		9767EEA36A21B55A75EC4C2ED4F4B13B /* AFURLResponseSerialization.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFURLResponseSerialization.h; path = AFNetworking/AFURLResponseSerialization.h; sourceTree = "<group>"; };
 		97A5C3391708F4F132E5454DD9D81A67 /* NSPersistentStoreCoordinator+MagicalRecord.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSPersistentStoreCoordinator+MagicalRecord.h"; path = "MagicalRecord/Categories/NSPersistentStoreCoordinator+MagicalRecord.h"; sourceTree = "<group>"; };
 		991E385AEEC0E17DE69F44D442E97B85 /* MagicalRecord.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = MagicalRecord.modulemap; sourceTree = "<group>"; };
@@ -337,36 +337,36 @@
 		B0319247D5954822C53110A0DA8D0EBE /* FSHelpers+Swift-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "FSHelpers+Swift-dummy.m"; sourceTree = "<group>"; };
 		B11181D3F0365D39A79EE708B734A3D1 /* UIProgressView+AFNetworking.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIProgressView+AFNetworking.h"; path = "UIKit+AFNetworking/UIProgressView+AFNetworking.h"; sourceTree = "<group>"; };
 		B3074B573622994E6F12524F83A988AF /* MobileCoreServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MobileCoreServices.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.sdk/System/Library/Frameworks/MobileCoreServices.framework; sourceTree = DEVELOPER_DIR; };
-		B425B3B0E7AE099323B2CD289E9066A9 /* Pods-Abstract-Swift-Base.release staging.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Abstract-Swift-Base.release staging.xcconfig"; sourceTree = "<group>"; };
-		B46F923C2063110D98BC936D027B350D /* Pods-Abstract-Swift-BaseTests.test staging.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Abstract-Swift-BaseTests.test staging.xcconfig"; sourceTree = "<group>"; };
+		B425B3B0E7AE099323B2CD289E9066A9 /* Pods-Abstract-BaseTest.release staging.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Abstract-BaseTest.release staging.xcconfig"; sourceTree = "<group>"; };
+		B46F923C2063110D98BC936D027B350D /* Pods-Abstract-BaseTestTests.test staging.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Abstract-BaseTestTests.test staging.xcconfig"; sourceTree = "<group>"; };
 		B5FFB8ECB66BD0B8F6A5878163945FB4 /* UIProgressView+AFNetworking.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIProgressView+AFNetworking.m"; path = "UIKit+AFNetworking/UIProgressView+AFNetworking.m"; sourceTree = "<group>"; };
-		B6C384A3A59332A9E6EB7EA0F7311986 /* Pods-Abstract-Swift-BaseUITests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Abstract-Swift-BaseUITests-frameworks.sh"; sourceTree = "<group>"; };
+		B6C384A3A59332A9E6EB7EA0F7311986 /* Pods-Abstract-BaseTestUITests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Abstract-BaseTestUITests-frameworks.sh"; sourceTree = "<group>"; };
 		B96B1E0DFF1E83F5EEC2B66718462902 /* NSManagedObject+MagicalFinders.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSManagedObject+MagicalFinders.m"; path = "MagicalRecord/Categories/NSManagedObject/NSManagedObject+MagicalFinders.m"; sourceTree = "<group>"; };
 		BA047D812733246CA1B70976FECCA140 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.sdk/System/Library/Frameworks/CoreGraphics.framework; sourceTree = DEVELOPER_DIR; };
-		BA766EEC9DAEC183C9EF484424A0FAE6 /* Pods-Abstract-Swift-Base.test.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Abstract-Swift-Base.test.xcconfig"; sourceTree = "<group>"; };
+		BA766EEC9DAEC183C9EF484424A0FAE6 /* Pods-Abstract-BaseTest.test.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Abstract-BaseTest.test.xcconfig"; sourceTree = "<group>"; };
 		BD56E82352EBB85B75675FFCA6A63A69 /* NSManagedObject+MagicalRequests.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSManagedObject+MagicalRequests.h"; path = "MagicalRecord/Categories/NSManagedObject/NSManagedObject+MagicalRequests.h"; sourceTree = "<group>"; };
-		BD894F116AE90258A166D273495BE0C0 /* Pods-Abstract-Swift-Base.appstore debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Abstract-Swift-Base.appstore debug.xcconfig"; sourceTree = "<group>"; };
-		BEA8F6FFB6B4706DACEFFB959E85A2E2 /* Pods-Abstract-Swift-Base.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Abstract-Swift-Base.release.xcconfig"; sourceTree = "<group>"; };
-		BEB943BA7CB4D70419CE9BDA4E3C3143 /* Pods-Abstract-Swift-Base.debug staging.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Abstract-Swift-Base.debug staging.xcconfig"; sourceTree = "<group>"; };
-		C002F185677B835087A08357C6CA811A /* Pods-Abstract-Swift-BaseUITests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Abstract-Swift-BaseUITests-umbrella.h"; sourceTree = "<group>"; };
+		BD894F116AE90258A166D273495BE0C0 /* Pods-Abstract-BaseTest.appstore debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Abstract-BaseTest.appstore debug.xcconfig"; sourceTree = "<group>"; };
+		BEA8F6FFB6B4706DACEFFB959E85A2E2 /* Pods-Abstract-BaseTest.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Abstract-BaseTest.release.xcconfig"; sourceTree = "<group>"; };
+		BEB943BA7CB4D70419CE9BDA4E3C3143 /* Pods-Abstract-BaseTest.debug staging.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Abstract-BaseTest.debug staging.xcconfig"; sourceTree = "<group>"; };
+		C002F185677B835087A08357C6CA811A /* Pods-Abstract-BaseTestUITests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Abstract-BaseTestUITests-umbrella.h"; sourceTree = "<group>"; };
 		C0430F3ED919F049D77433BCB4834BF7 /* AFAutoPurgingImageCache.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AFAutoPurgingImageCache.m; path = "UIKit+AFNetworking/AFAutoPurgingImageCache.m"; sourceTree = "<group>"; };
 		C0FC717F0512F3FAACC56A62C65608BA /* FSE+Range.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "FSE+Range.swift"; path = "Swift/Helpers/FSExtensions/FSE+Range.swift"; sourceTree = "<group>"; };
-		C12FECEFA4B3B50F0A160007031C6126 /* Pods-Abstract-Swift-BaseUITests.release staging.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Abstract-Swift-BaseUITests.release staging.xcconfig"; sourceTree = "<group>"; };
-		C14A80B1DDF59E185932EB2D5CE2EB4D /* Pods-Abstract-Swift-BaseUITests.test staging.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Abstract-Swift-BaseUITests.test staging.xcconfig"; sourceTree = "<group>"; };
+		C12FECEFA4B3B50F0A160007031C6126 /* Pods-Abstract-BaseTestUITests.release staging.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Abstract-BaseTestUITests.release staging.xcconfig"; sourceTree = "<group>"; };
+		C14A80B1DDF59E185932EB2D5CE2EB4D /* Pods-Abstract-BaseTestUITests.test staging.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Abstract-BaseTestUITests.test staging.xcconfig"; sourceTree = "<group>"; };
 		C18D6EABA0AABB7116A8BF4672CAAA73 /* MagicalRecordLogging.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MagicalRecordLogging.h; path = MagicalRecord/Core/MagicalRecordLogging.h; sourceTree = "<group>"; };
 		C41C6C43AE89E1657494AF120459FFD6 /* AFURLRequestSerialization.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFURLRequestSerialization.h; path = AFNetworking/AFURLRequestSerialization.h; sourceTree = "<group>"; };
 		C51705DA7AEB7213C8F3EDB81D22CE02 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		C538171DF1F099DE1F8D10CCF64D642A /* Pods-Abstract-Swift-BaseUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Abstract-Swift-BaseUITests.debug.xcconfig"; sourceTree = "<group>"; };
-		C758B23965E37459F156351FEF58EB78 /* Pods-Abstract-Swift-BaseUITests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-Abstract-Swift-BaseUITests.modulemap"; sourceTree = "<group>"; };
-		C9295856AC71969AE4D989BA5D4E4FFD /* Pods-Abstract-Swift-BaseUITests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Abstract-Swift-BaseUITests-resources.sh"; sourceTree = "<group>"; };
+		C538171DF1F099DE1F8D10CCF64D642A /* Pods-Abstract-BaseTestUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Abstract-BaseTestUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		C758B23965E37459F156351FEF58EB78 /* Pods-Abstract-BaseTestUITests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-Abstract-BaseTestUITests.modulemap"; sourceTree = "<group>"; };
+		C9295856AC71969AE4D989BA5D4E4FFD /* Pods-Abstract-BaseTestUITests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Abstract-BaseTestUITests-resources.sh"; sourceTree = "<group>"; };
 		CACFA5291256E77A2261D0D2AE6BB63D /* AFNetworkActivityIndicatorManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AFNetworkActivityIndicatorManager.m; path = "UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m"; sourceTree = "<group>"; };
 		CC5F8B866197D81B1DE3E03CD3F89374 /* MagicalRecord+ShorthandMethods.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "MagicalRecord+ShorthandMethods.m"; path = "MagicalRecord/Core/MagicalRecord+ShorthandMethods.m"; sourceTree = "<group>"; };
-		CD958644AF5D863120ED64BF2C588CB8 /* Pods-Abstract-Swift-Base.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-Abstract-Swift-Base.modulemap"; sourceTree = "<group>"; };
+		CD958644AF5D863120ED64BF2C588CB8 /* Pods-Abstract-BaseTest.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-Abstract-BaseTest.modulemap"; sourceTree = "<group>"; };
 		D61D2279103304FF27231A52A49908E4 /* Pods_Abstract_Swift_Base.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Abstract_Swift_Base.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D6795AF375EF65710D39A09545FA0054 /* AFNetworking.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = AFNetworking.modulemap; sourceTree = "<group>"; };
 		D7E5CD384BF4D9315961625189BA11A5 /* NSManagedObjectContext+MagicalObserving.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSManagedObjectContext+MagicalObserving.h"; path = "MagicalRecord/Categories/NSManagedObjectContext/NSManagedObjectContext+MagicalObserving.h"; sourceTree = "<group>"; };
 		D81664725888E7CC58D77DACF987584D /* FSHelpersAutolayout.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = FSHelpersAutolayout.swift; path = Swift/Helpers/FSHelpersAutolayout.swift; sourceTree = "<group>"; };
-		D86871AF2439679D191FB40DA285FED0 /* Pods-Abstract-Swift-BaseTests.debug staging.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Abstract-Swift-BaseTests.debug staging.xcconfig"; sourceTree = "<group>"; };
+		D86871AF2439679D191FB40DA285FED0 /* Pods-Abstract-BaseTestTests.debug staging.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Abstract-BaseTestTests.debug staging.xcconfig"; sourceTree = "<group>"; };
 		D8E7495188E32008F7379E2B9694FAA6 /* MagicalRecord+ShorthandMethods.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "MagicalRecord+ShorthandMethods.h"; path = "MagicalRecord/Core/MagicalRecord+ShorthandMethods.h"; sourceTree = "<group>"; };
 		D8EB26C16E025B40159728C451A372AF /* MagicalRecordXcode7CompatibilityMacros.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MagicalRecordXcode7CompatibilityMacros.h; path = MagicalRecord/Core/MagicalRecordXcode7CompatibilityMacros.h; sourceTree = "<group>"; };
 		D974312C791B3CB7937ACE3E9103B945 /* AFNetworking.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = AFNetworking.xcconfig; sourceTree = "<group>"; };
@@ -374,33 +374,33 @@
 		DF2824B808B65EC1F6108CBB2C7072F9 /* FSKeyboardScrollSupport.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = FSKeyboardScrollSupport.swift; path = Swift/Helpers/FSProtocols/FSKeyboardScrollSupport.swift; sourceTree = "<group>"; };
 		E00792C59AF52C8FA062663361AC18CF /* UIImageView+AFNetworking.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImageView+AFNetworking.m"; path = "UIKit+AFNetworking/UIImageView+AFNetworking.m"; sourceTree = "<group>"; };
 		E10EA5D6F5AC55EF4BBD5561594FB945 /* AFSecurityPolicy.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFSecurityPolicy.h; path = AFNetworking/AFSecurityPolicy.h; sourceTree = "<group>"; };
-		E1AACC42030BBA39E4174CCF48245E2E /* Pods-Abstract-Swift-BaseTests.test.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Abstract-Swift-BaseTests.test.xcconfig"; sourceTree = "<group>"; };
+		E1AACC42030BBA39E4174CCF48245E2E /* Pods-Abstract-BaseTestTests.test.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Abstract-BaseTestTests.test.xcconfig"; sourceTree = "<group>"; };
 		E34D7FBD909E4E9A90433A46E0B1FB68 /* AFNetworking-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "AFNetworking-umbrella.h"; sourceTree = "<group>"; };
 		E46196141B78BF5A0BACFE461A2145DA /* MagicalRecord+Actions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "MagicalRecord+Actions.h"; path = "MagicalRecord/Core/MagicalRecord+Actions.h"; sourceTree = "<group>"; };
 		E48D44521A978E5CB058CF9A15E2660C /* FSE+UITableView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "FSE+UITableView.swift"; path = "Swift/Helpers/FSExtensions/FSE+UITableView.swift"; sourceTree = "<group>"; };
 		E4A42A7C659AF87888B0E4E4A2D11B48 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E6DB804A494258B5473F592C8F694D27 /* FSE+UITextField.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "FSE+UITextField.swift"; path = "Swift/Helpers/FSExtensions/FSE+UITextField.swift"; sourceTree = "<group>"; };
 		E6FF85835EF0D39390C14F21A55AB4F6 /* NSManagedObject+MagicalFinders.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSManagedObject+MagicalFinders.h"; path = "MagicalRecord/Categories/NSManagedObject/NSManagedObject+MagicalFinders.h"; sourceTree = "<group>"; };
-		E76B6957FA98D4C54437E2C6AEB8F9F8 /* Pods-Abstract-Swift-BaseUITests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Abstract-Swift-BaseUITests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		E76B6957FA98D4C54437E2C6AEB8F9F8 /* Pods-Abstract-BaseTestUITests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Abstract-BaseTestUITests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		E76BBE75F4056DB1620D491CC48DC23C /* NSRelationshipDescription+MagicalDataImport.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSRelationshipDescription+MagicalDataImport.m"; path = "MagicalRecord/Categories/DataImport/NSRelationshipDescription+MagicalDataImport.m"; sourceTree = "<group>"; };
 		E77D3BDA1456236CB9C58E91E784539E /* AFURLResponseSerialization.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AFURLResponseSerialization.m; path = AFNetworking/AFURLResponseSerialization.m; sourceTree = "<group>"; };
 		E90BAC4D470BD6E71B521EB1E931AB44 /* FSHelpers.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = FSHelpers.swift; path = Swift/Helpers/FSHelpers.swift; sourceTree = "<group>"; };
 		ED243C6FF2DAEF325145E84695EE635E /* NSString+MagicalDataImport.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSString+MagicalDataImport.m"; path = "MagicalRecord/Categories/DataImport/NSString+MagicalDataImport.m"; sourceTree = "<group>"; };
 		F031C0A46EA2BA087779E630EE37855A /* MagicalRecordInternal.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MagicalRecordInternal.m; path = MagicalRecord/Core/MagicalRecordInternal.m; sourceTree = "<group>"; };
-		F0602F0718AED3FF8B21437836355D1F /* Pods-Abstract-Swift-BaseTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Abstract-Swift-BaseTests-acknowledgements.plist"; sourceTree = "<group>"; };
+		F0602F0718AED3FF8B21437836355D1F /* Pods-Abstract-BaseTestTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Abstract-BaseTestTests-acknowledgements.plist"; sourceTree = "<group>"; };
 		F3D35EB7B3CC6DFD727B7FA4314301B6 /* MagicalRecord.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MagicalRecord.h; path = MagicalRecord/MagicalRecord.h; sourceTree = "<group>"; };
-		F425F71945376282A40B0935FE56A575 /* Pods-Abstract-Swift-BaseUITests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Abstract-Swift-BaseUITests-acknowledgements.plist"; sourceTree = "<group>"; };
+		F425F71945376282A40B0935FE56A575 /* Pods-Abstract-BaseTestUITests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Abstract-BaseTestUITests-acknowledgements.plist"; sourceTree = "<group>"; };
 		F4A61D7C92056BD7D0B14EF76F26C7A7 /* MagicalRecord+iCloud.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "MagicalRecord+iCloud.m"; path = "MagicalRecord/Core/MagicalRecord+iCloud.m"; sourceTree = "<group>"; };
 		F521993B43C03CB6FFF26D36A133DB98 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.sdk/System/Library/Frameworks/SystemConfiguration.framework; sourceTree = DEVELOPER_DIR; };
-		F7A2214D0AE42BEEA2C0A536A5F8D8A9 /* Pods-Abstract-Swift-BaseTests.appstore debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Abstract-Swift-BaseTests.appstore debug.xcconfig"; sourceTree = "<group>"; };
+		F7A2214D0AE42BEEA2C0A536A5F8D8A9 /* Pods-Abstract-BaseTestTests.appstore debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Abstract-BaseTestTests.appstore debug.xcconfig"; sourceTree = "<group>"; };
 		F9C49E23D30F3BCBCDF855236549B03F /* NSManagedObjectContext+MagicalRecord.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSManagedObjectContext+MagicalRecord.m"; path = "MagicalRecord/Categories/NSManagedObjectContext/NSManagedObjectContext+MagicalRecord.m"; sourceTree = "<group>"; };
 		FA13B8C8D6412261DF19A0484313B182 /* AFNetworking.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFNetworking.h; path = AFNetworking/AFNetworking.h; sourceTree = "<group>"; };
 		FBCFF90159DE39C8C979F23AE770CDF2 /* NSPersistentStoreCoordinator+MagicalRecord.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSPersistentStoreCoordinator+MagicalRecord.m"; path = "MagicalRecord/Categories/NSPersistentStoreCoordinator+MagicalRecord.m"; sourceTree = "<group>"; };
 		FBE2C5A98C66FC495C31AFBA6D50AF87 /* FSE+Double.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "FSE+Double.swift"; path = "Swift/Helpers/FSExtensions/FSE+Double.swift"; sourceTree = "<group>"; };
 		FBE322D59F11276001D6D0FBC375F916 /* MagicalImportFunctions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MagicalImportFunctions.h; path = MagicalRecord/Categories/DataImport/MagicalImportFunctions.h; sourceTree = "<group>"; };
 		FC5C26112AE5BA898A9E94FF5F352485 /* AFImageDownloader.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AFImageDownloader.m; path = "UIKit+AFNetworking/AFImageDownloader.m"; sourceTree = "<group>"; };
-		FCFEADEE7B63E12CC9B5BA691D46D73D /* Pods-Abstract-Swift-BaseUITests.debug staging.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Abstract-Swift-BaseUITests.debug staging.xcconfig"; sourceTree = "<group>"; };
-		FD0B1706DE22D10D7A186A7448B46D32 /* Pods-Abstract-Swift-Base-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Abstract-Swift-Base-acknowledgements.plist"; sourceTree = "<group>"; };
+		FCFEADEE7B63E12CC9B5BA691D46D73D /* Pods-Abstract-BaseTestUITests.debug staging.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Abstract-BaseTestUITests.debug staging.xcconfig"; sourceTree = "<group>"; };
+		FD0B1706DE22D10D7A186A7448B46D32 /* Pods-Abstract-BaseTest-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Abstract-BaseTest-acknowledgements.plist"; sourceTree = "<group>"; };
 		FF099EDB042E67AE1BD9C7A615B5F5B8 /* MagicalRecord+Setup.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "MagicalRecord+Setup.h"; path = "MagicalRecord/Core/MagicalRecord+Setup.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -472,28 +472,28 @@
 			name = Security;
 			sourceTree = "<group>";
 		};
-		06394D51C4BA7B67BC33F417873C93FD /* Pods-Abstract-Swift-BaseUITests */ = {
+		06394D51C4BA7B67BC33F417873C93FD /* Pods-Abstract-BaseTestUITests */ = {
 			isa = PBXGroup;
 			children = (
 				916798D524C722E53DF6AC89F1C4F681 /* Info.plist */,
-				C758B23965E37459F156351FEF58EB78 /* Pods-Abstract-Swift-BaseUITests.modulemap */,
-				E76B6957FA98D4C54437E2C6AEB8F9F8 /* Pods-Abstract-Swift-BaseUITests-acknowledgements.markdown */,
-				F425F71945376282A40B0935FE56A575 /* Pods-Abstract-Swift-BaseUITests-acknowledgements.plist */,
-				7B4172D2845F0E1FDC8D4CADB741E264 /* Pods-Abstract-Swift-BaseUITests-dummy.m */,
-				B6C384A3A59332A9E6EB7EA0F7311986 /* Pods-Abstract-Swift-BaseUITests-frameworks.sh */,
-				C9295856AC71969AE4D989BA5D4E4FFD /* Pods-Abstract-Swift-BaseUITests-resources.sh */,
-				C002F185677B835087A08357C6CA811A /* Pods-Abstract-Swift-BaseUITests-umbrella.h */,
-				1780ECDAD9C3685A1B015B7364C2D90F /* Pods-Abstract-Swift-BaseUITests.appstore.xcconfig */,
-				811BE53BC6F16D359DB71B97877D588C /* Pods-Abstract-Swift-BaseUITests.appstore debug.xcconfig */,
-				C538171DF1F099DE1F8D10CCF64D642A /* Pods-Abstract-Swift-BaseUITests.debug.xcconfig */,
-				FCFEADEE7B63E12CC9B5BA691D46D73D /* Pods-Abstract-Swift-BaseUITests.debug staging.xcconfig */,
-				948C70A2F9570EFE6162101B289F461A /* Pods-Abstract-Swift-BaseUITests.release.xcconfig */,
-				C12FECEFA4B3B50F0A160007031C6126 /* Pods-Abstract-Swift-BaseUITests.release staging.xcconfig */,
-				21A04D41D52ACFB9FC0F17EAE104A2C1 /* Pods-Abstract-Swift-BaseUITests.test.xcconfig */,
-				C14A80B1DDF59E185932EB2D5CE2EB4D /* Pods-Abstract-Swift-BaseUITests.test staging.xcconfig */,
+				C758B23965E37459F156351FEF58EB78 /* Pods-Abstract-BaseTestUITests.modulemap */,
+				E76B6957FA98D4C54437E2C6AEB8F9F8 /* Pods-Abstract-BaseTestUITests-acknowledgements.markdown */,
+				F425F71945376282A40B0935FE56A575 /* Pods-Abstract-BaseTestUITests-acknowledgements.plist */,
+				7B4172D2845F0E1FDC8D4CADB741E264 /* Pods-Abstract-BaseTestUITests-dummy.m */,
+				B6C384A3A59332A9E6EB7EA0F7311986 /* Pods-Abstract-BaseTestUITests-frameworks.sh */,
+				C9295856AC71969AE4D989BA5D4E4FFD /* Pods-Abstract-BaseTestUITests-resources.sh */,
+				C002F185677B835087A08357C6CA811A /* Pods-Abstract-BaseTestUITests-umbrella.h */,
+				1780ECDAD9C3685A1B015B7364C2D90F /* Pods-Abstract-BaseTestUITests.appstore.xcconfig */,
+				811BE53BC6F16D359DB71B97877D588C /* Pods-Abstract-BaseTestUITests.appstore debug.xcconfig */,
+				C538171DF1F099DE1F8D10CCF64D642A /* Pods-Abstract-BaseTestUITests.debug.xcconfig */,
+				FCFEADEE7B63E12CC9B5BA691D46D73D /* Pods-Abstract-BaseTestUITests.debug staging.xcconfig */,
+				948C70A2F9570EFE6162101B289F461A /* Pods-Abstract-BaseTestUITests.release.xcconfig */,
+				C12FECEFA4B3B50F0A160007031C6126 /* Pods-Abstract-BaseTestUITests.release staging.xcconfig */,
+				21A04D41D52ACFB9FC0F17EAE104A2C1 /* Pods-Abstract-BaseTestUITests.test.xcconfig */,
+				C14A80B1DDF59E185932EB2D5CE2EB4D /* Pods-Abstract-BaseTestUITests.test staging.xcconfig */,
 			);
-			name = "Pods-Abstract-Swift-BaseUITests";
-			path = "Target Support Files/Pods-Abstract-Swift-BaseUITests";
+			name = "Pods-Abstract-BaseTestUITests";
+			path = "Target Support Files/Pods-Abstract-BaseTestUITests";
 			sourceTree = "<group>";
 		};
 		064565EAD32D34FC84DBEC13CED97518 /* Pods */ = {
@@ -535,28 +535,28 @@
 			name = NSURLSession;
 			sourceTree = "<group>";
 		};
-		1D26B89ED03776B35BB8AC179C2F5055 /* Pods-Abstract-Swift-Base */ = {
+		1D26B89ED03776B35BB8AC179C2F5055 /* Pods-Abstract-BaseTest */ = {
 			isa = PBXGroup;
 			children = (
 				1632C92BE044A69A8BB9294A6989EEE5 /* Info.plist */,
-				CD958644AF5D863120ED64BF2C588CB8 /* Pods-Abstract-Swift-Base.modulemap */,
-				949B765502F9EFCC6CCCEF46752A4696 /* Pods-Abstract-Swift-Base-acknowledgements.markdown */,
-				FD0B1706DE22D10D7A186A7448B46D32 /* Pods-Abstract-Swift-Base-acknowledgements.plist */,
-				3A226B46708C4576A310B5C9B21AD6AC /* Pods-Abstract-Swift-Base-dummy.m */,
-				336C6515D2C59DF0ECAB24D2A2EB7297 /* Pods-Abstract-Swift-Base-frameworks.sh */,
-				8663B1FB252AABFF771B639E9EAB481E /* Pods-Abstract-Swift-Base-resources.sh */,
-				26FC111C77862223A1BFAC49D1D1BA74 /* Pods-Abstract-Swift-Base-umbrella.h */,
-				461012D670D1FD4BB2567D4F73D27C43 /* Pods-Abstract-Swift-Base.appstore.xcconfig */,
-				BD894F116AE90258A166D273495BE0C0 /* Pods-Abstract-Swift-Base.appstore debug.xcconfig */,
-				133837E9A2820D9FF2193315947E24A6 /* Pods-Abstract-Swift-Base.debug.xcconfig */,
-				BEB943BA7CB4D70419CE9BDA4E3C3143 /* Pods-Abstract-Swift-Base.debug staging.xcconfig */,
-				BEA8F6FFB6B4706DACEFFB959E85A2E2 /* Pods-Abstract-Swift-Base.release.xcconfig */,
-				B425B3B0E7AE099323B2CD289E9066A9 /* Pods-Abstract-Swift-Base.release staging.xcconfig */,
-				BA766EEC9DAEC183C9EF484424A0FAE6 /* Pods-Abstract-Swift-Base.test.xcconfig */,
-				4217D728C94CDE166E7B0ADB5AABD63E /* Pods-Abstract-Swift-Base.test staging.xcconfig */,
+				CD958644AF5D863120ED64BF2C588CB8 /* Pods-Abstract-BaseTest.modulemap */,
+				949B765502F9EFCC6CCCEF46752A4696 /* Pods-Abstract-BaseTest-acknowledgements.markdown */,
+				FD0B1706DE22D10D7A186A7448B46D32 /* Pods-Abstract-BaseTest-acknowledgements.plist */,
+				3A226B46708C4576A310B5C9B21AD6AC /* Pods-Abstract-BaseTest-dummy.m */,
+				336C6515D2C59DF0ECAB24D2A2EB7297 /* Pods-Abstract-BaseTest-frameworks.sh */,
+				8663B1FB252AABFF771B639E9EAB481E /* Pods-Abstract-BaseTest-resources.sh */,
+				26FC111C77862223A1BFAC49D1D1BA74 /* Pods-Abstract-BaseTest-umbrella.h */,
+				461012D670D1FD4BB2567D4F73D27C43 /* Pods-Abstract-BaseTest.appstore.xcconfig */,
+				BD894F116AE90258A166D273495BE0C0 /* Pods-Abstract-BaseTest.appstore debug.xcconfig */,
+				133837E9A2820D9FF2193315947E24A6 /* Pods-Abstract-BaseTest.debug.xcconfig */,
+				BEB943BA7CB4D70419CE9BDA4E3C3143 /* Pods-Abstract-BaseTest.debug staging.xcconfig */,
+				BEA8F6FFB6B4706DACEFFB959E85A2E2 /* Pods-Abstract-BaseTest.release.xcconfig */,
+				B425B3B0E7AE099323B2CD289E9066A9 /* Pods-Abstract-BaseTest.release staging.xcconfig */,
+				BA766EEC9DAEC183C9EF484424A0FAE6 /* Pods-Abstract-BaseTest.test.xcconfig */,
+				4217D728C94CDE166E7B0ADB5AABD63E /* Pods-Abstract-BaseTest.test staging.xcconfig */,
 			);
-			name = "Pods-Abstract-Swift-Base";
-			path = "Target Support Files/Pods-Abstract-Swift-Base";
+			name = "Pods-Abstract-BaseTest";
+			path = "Target Support Files/Pods-Abstract-BaseTest";
 			sourceTree = "<group>";
 		};
 		553DA1212CF5834BBE2B337C86E865F7 /* Support Files */ = {
@@ -770,28 +770,28 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		C571BFB7B57E0B1554B92E404A399AA0 /* Pods-Abstract-Swift-BaseTests */ = {
+		C571BFB7B57E0B1554B92E404A399AA0 /* Pods-Abstract-BaseTestTests */ = {
 			isa = PBXGroup;
 			children = (
 				75773C340C4343539A573B5505624A34 /* Info.plist */,
-				7B8CAF47E94C6D72D599420DC737A162 /* Pods-Abstract-Swift-BaseTests.modulemap */,
-				19021180158DC8C7D65521F768723231 /* Pods-Abstract-Swift-BaseTests-acknowledgements.markdown */,
-				F0602F0718AED3FF8B21437836355D1F /* Pods-Abstract-Swift-BaseTests-acknowledgements.plist */,
-				5CA72BC3AF8FE3B99E9925ED307784E8 /* Pods-Abstract-Swift-BaseTests-dummy.m */,
-				6265B6C90B31BE74D2BFEF9374304265 /* Pods-Abstract-Swift-BaseTests-frameworks.sh */,
-				175D51CCCD7F27671472C2E56657286B /* Pods-Abstract-Swift-BaseTests-resources.sh */,
-				2576DDB93E6B48B6A4A09AFA88DFFFA3 /* Pods-Abstract-Swift-BaseTests-umbrella.h */,
-				8768CB74047F80A9F6E31C717A34C92F /* Pods-Abstract-Swift-BaseTests.appstore.xcconfig */,
-				F7A2214D0AE42BEEA2C0A536A5F8D8A9 /* Pods-Abstract-Swift-BaseTests.appstore debug.xcconfig */,
-				18904D86ED9554FAAD8378221C61CEE7 /* Pods-Abstract-Swift-BaseTests.debug.xcconfig */,
-				D86871AF2439679D191FB40DA285FED0 /* Pods-Abstract-Swift-BaseTests.debug staging.xcconfig */,
-				23AAB8CEC70A9442A97AD2E619F3C170 /* Pods-Abstract-Swift-BaseTests.release.xcconfig */,
-				5D826BE60B03B9AF42EA2997CFB21C05 /* Pods-Abstract-Swift-BaseTests.release staging.xcconfig */,
-				E1AACC42030BBA39E4174CCF48245E2E /* Pods-Abstract-Swift-BaseTests.test.xcconfig */,
-				B46F923C2063110D98BC936D027B350D /* Pods-Abstract-Swift-BaseTests.test staging.xcconfig */,
+				7B8CAF47E94C6D72D599420DC737A162 /* Pods-Abstract-BaseTestTests.modulemap */,
+				19021180158DC8C7D65521F768723231 /* Pods-Abstract-BaseTestTests-acknowledgements.markdown */,
+				F0602F0718AED3FF8B21437836355D1F /* Pods-Abstract-BaseTestTests-acknowledgements.plist */,
+				5CA72BC3AF8FE3B99E9925ED307784E8 /* Pods-Abstract-BaseTestTests-dummy.m */,
+				6265B6C90B31BE74D2BFEF9374304265 /* Pods-Abstract-BaseTestTests-frameworks.sh */,
+				175D51CCCD7F27671472C2E56657286B /* Pods-Abstract-BaseTestTests-resources.sh */,
+				2576DDB93E6B48B6A4A09AFA88DFFFA3 /* Pods-Abstract-BaseTestTests-umbrella.h */,
+				8768CB74047F80A9F6E31C717A34C92F /* Pods-Abstract-BaseTestTests.appstore.xcconfig */,
+				F7A2214D0AE42BEEA2C0A536A5F8D8A9 /* Pods-Abstract-BaseTestTests.appstore debug.xcconfig */,
+				18904D86ED9554FAAD8378221C61CEE7 /* Pods-Abstract-BaseTestTests.debug.xcconfig */,
+				D86871AF2439679D191FB40DA285FED0 /* Pods-Abstract-BaseTestTests.debug staging.xcconfig */,
+				23AAB8CEC70A9442A97AD2E619F3C170 /* Pods-Abstract-BaseTestTests.release.xcconfig */,
+				5D826BE60B03B9AF42EA2997CFB21C05 /* Pods-Abstract-BaseTestTests.release staging.xcconfig */,
+				E1AACC42030BBA39E4174CCF48245E2E /* Pods-Abstract-BaseTestTests.test.xcconfig */,
+				B46F923C2063110D98BC936D027B350D /* Pods-Abstract-BaseTestTests.test staging.xcconfig */,
 			);
-			name = "Pods-Abstract-Swift-BaseTests";
-			path = "Target Support Files/Pods-Abstract-Swift-BaseTests";
+			name = "Pods-Abstract-BaseTestTests";
+			path = "Target Support Files/Pods-Abstract-BaseTestTests";
 			sourceTree = "<group>";
 		};
 		C7ADF458CBC233D30B23C2E57190E8CF /* FSHelpers+Swift */ = {
@@ -823,9 +823,9 @@
 		C8E3CA20B233E2BFC2C210468262FE7D /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				1D26B89ED03776B35BB8AC179C2F5055 /* Pods-Abstract-Swift-Base */,
-				C571BFB7B57E0B1554B92E404A399AA0 /* Pods-Abstract-Swift-BaseTests */,
-				06394D51C4BA7B67BC33F417873C93FD /* Pods-Abstract-Swift-BaseUITests */,
+				1D26B89ED03776B35BB8AC179C2F5055 /* Pods-Abstract-BaseTest */,
+				C571BFB7B57E0B1554B92E404A399AA0 /* Pods-Abstract-BaseTestTests */,
+				06394D51C4BA7B67BC33F417873C93FD /* Pods-Abstract-BaseTestUITests */,
 			);
 			name = "Targets Support Files";
 			sourceTree = "<group>";
@@ -874,7 +874,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E059F8A50FBF902F3B04901256511848 /* Pods-Abstract-Swift-BaseTests-umbrella.h in Headers */,
+				E059F8A50FBF902F3B04901256511848 /* Pods-Abstract-BaseTestTests-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -908,7 +908,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7297745054AD4BA791D6E146C235BA00 /* Pods-Abstract-Swift-Base-umbrella.h in Headers */,
+				7297745054AD4BA791D6E146C235BA00 /* Pods-Abstract-BaseTest-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -916,7 +916,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4B22859991CF65A88AA021D963B0CC93 /* Pods-Abstract-Swift-BaseUITests-umbrella.h in Headers */,
+				4B22859991CF65A88AA021D963B0CC93 /* Pods-Abstract-BaseTestUITests-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1013,9 +1013,9 @@
 			productReference = 52191700F65155C6CC55BFF9054FFF88 /* AFNetworking.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		D1FE80A56DFCC491050B4C698C964A3C /* Pods-Abstract-Swift-Base */ = {
+		D1FE80A56DFCC491050B4C698C964A3C /* Pods-Abstract-BaseTest */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2B3BE3887B7B6D6357FB99E66E2D9C2A /* Build configuration list for PBXNativeTarget "Pods-Abstract-Swift-Base" */;
+			buildConfigurationList = 2B3BE3887B7B6D6357FB99E66E2D9C2A /* Build configuration list for PBXNativeTarget "Pods-Abstract-BaseTest" */;
 			buildPhases = (
 				C251281980A5C685C8877C849821DDF4 /* Sources */,
 				77060E68B1F2E38645939F1D4059CB82 /* Frameworks */,
@@ -1028,14 +1028,14 @@
 				DF3499C2226B76726B3B66147EDCAB56 /* PBXTargetDependency */,
 				AFB303E478DDD9BBAC08C05C64EAF8C2 /* PBXTargetDependency */,
 			);
-			name = "Pods-Abstract-Swift-Base";
-			productName = "Pods-Abstract-Swift-Base";
+			name = "Pods-Abstract-BaseTest";
+			productName = "Pods-Abstract-BaseTest";
 			productReference = D61D2279103304FF27231A52A49908E4 /* Pods_Abstract_Swift_Base.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		EDD247F5ACCD9AE452B72C845B8E4FB2 /* Pods-Abstract-Swift-BaseTests */ = {
+		EDD247F5ACCD9AE452B72C845B8E4FB2 /* Pods-Abstract-BaseTestTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B304C4CD6455FB334D6A21CAEFF812A1 /* Build configuration list for PBXNativeTarget "Pods-Abstract-Swift-BaseTests" */;
+			buildConfigurationList = B304C4CD6455FB334D6A21CAEFF812A1 /* Build configuration list for PBXNativeTarget "Pods-Abstract-BaseTestTests" */;
 			buildPhases = (
 				2F866E90B47D7C4CCAEA2C875FAB3BFC /* Sources */,
 				FDFAB74039D70B5E38C29BA41A73E8A2 /* Frameworks */,
@@ -1048,14 +1048,14 @@
 				8B914A4754D187F96822528FFC406F5A /* PBXTargetDependency */,
 				660C16759EE27F991C39D0F59F621004 /* PBXTargetDependency */,
 			);
-			name = "Pods-Abstract-Swift-BaseTests";
-			productName = "Pods-Abstract-Swift-BaseTests";
+			name = "Pods-Abstract-BaseTestTests";
+			productName = "Pods-Abstract-BaseTestTests";
 			productReference = 2FA081E95D034ADDCA9803D84FD90B7D /* Pods_Abstract_Swift_BaseTests.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		F11698C4042C6439BA1B354425196429 /* Pods-Abstract-Swift-BaseUITests */ = {
+		F11698C4042C6439BA1B354425196429 /* Pods-Abstract-BaseTestUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = FF4669246C9493103D76FB38826B0540 /* Build configuration list for PBXNativeTarget "Pods-Abstract-Swift-BaseUITests" */;
+			buildConfigurationList = FF4669246C9493103D76FB38826B0540 /* Build configuration list for PBXNativeTarget "Pods-Abstract-BaseTestUITests" */;
 			buildPhases = (
 				2B74D2866FFEA2244AC65BCDB7E68245 /* Sources */,
 				A37D19D9D8AE085D7ACC22B56AF88416 /* Frameworks */,
@@ -1068,8 +1068,8 @@
 				023A545680A1E1CA38DC4EE2D69FDC1A /* PBXTargetDependency */,
 				4D9A27A9272565CFF5D47C54014BA08B /* PBXTargetDependency */,
 			);
-			name = "Pods-Abstract-Swift-BaseUITests";
-			productName = "Pods-Abstract-Swift-BaseUITests";
+			name = "Pods-Abstract-BaseTestUITests";
+			productName = "Pods-Abstract-BaseTestUITests";
 			productReference = 28C57227AC2521965E72D86F2588F8B0 /* Pods_Abstract_Swift_BaseUITests.framework */;
 			productType = "com.apple.product-type.framework";
 		};
@@ -1097,9 +1097,9 @@
 				BB6D9DD106D1A7484C107C2C69F9624B /* AFNetworking */,
 				936FCBCC073E3961EB4D42C738FEB332 /* FSHelpers+Swift */,
 				AD47E339A26F876F910CD9E671989350 /* MagicalRecord */,
-				D1FE80A56DFCC491050B4C698C964A3C /* Pods-Abstract-Swift-Base */,
-				EDD247F5ACCD9AE452B72C845B8E4FB2 /* Pods-Abstract-Swift-BaseTests */,
-				F11698C4042C6439BA1B354425196429 /* Pods-Abstract-Swift-BaseUITests */,
+				D1FE80A56DFCC491050B4C698C964A3C /* Pods-Abstract-BaseTest */,
+				EDD247F5ACCD9AE452B72C845B8E4FB2 /* Pods-Abstract-BaseTestTests */,
+				F11698C4042C6439BA1B354425196429 /* Pods-Abstract-BaseTestUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -1109,7 +1109,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F8A2BC53511427596FC93970EDB68F96 /* Pods-Abstract-Swift-BaseUITests-dummy.m in Sources */,
+				F8A2BC53511427596FC93970EDB68F96 /* Pods-Abstract-BaseTestUITests-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1117,7 +1117,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2C8418710DE82154E3D45C0A5B634D3A /* Pods-Abstract-Swift-BaseTests-dummy.m in Sources */,
+				2C8418710DE82154E3D45C0A5B634D3A /* Pods-Abstract-BaseTestTests-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1183,7 +1183,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7A28E3715F96A24ECAC8D6FF411B72DD /* Pods-Abstract-Swift-Base-dummy.m in Sources */,
+				7A28E3715F96A24ECAC8D6FF411B72DD /* Pods-Abstract-BaseTest-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1304,7 +1304,7 @@
 		};
 		0CF4A4F74EB1D894DEEAF229BD1525DF /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 23AAB8CEC70A9442A97AD2E619F3C170 /* Pods-Abstract-Swift-BaseTests.release.xcconfig */;
+			baseConfigurationReference = 23AAB8CEC70A9442A97AD2E619F3C170 /* Pods-Abstract-BaseTestTests.release.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
@@ -1315,12 +1315,12 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-Abstract-Swift-BaseTests/Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-Abstract-BaseTestTests/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-Abstract-Swift-BaseTests/Pods-Abstract-Swift-BaseTests.modulemap";
+				MODULEMAP_FILE = "Target Support Files/Pods-Abstract-BaseTestTests/Pods-Abstract-BaseTestTests.modulemap";
 				MTL_ENABLE_DEBUG_INFO = NO;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
@@ -1395,7 +1395,7 @@
 		};
 		1C9DCFC191361C0BE4C986530CC3A218 /* Test */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = BA766EEC9DAEC183C9EF484424A0FAE6 /* Pods-Abstract-Swift-Base.test.xcconfig */;
+			baseConfigurationReference = BA766EEC9DAEC183C9EF484424A0FAE6 /* Pods-Abstract-BaseTest.test.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
@@ -1406,12 +1406,12 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-Abstract-Swift-Base/Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-Abstract-BaseTest/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-Abstract-Swift-Base/Pods-Abstract-Swift-Base.modulemap";
+				MODULEMAP_FILE = "Target Support Files/Pods-Abstract-BaseTest/Pods-Abstract-BaseTest.modulemap";
 				MTL_ENABLE_DEBUG_INFO = NO;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
@@ -1631,7 +1631,7 @@
 		};
 		39A0EF7A7C8E025AAA6A5ED8097AC295 /* Test */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = E1AACC42030BBA39E4174CCF48245E2E /* Pods-Abstract-Swift-BaseTests.test.xcconfig */;
+			baseConfigurationReference = E1AACC42030BBA39E4174CCF48245E2E /* Pods-Abstract-BaseTestTests.test.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
@@ -1642,12 +1642,12 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-Abstract-Swift-BaseTests/Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-Abstract-BaseTestTests/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-Abstract-Swift-BaseTests/Pods-Abstract-Swift-BaseTests.modulemap";
+				MODULEMAP_FILE = "Target Support Files/Pods-Abstract-BaseTestTests/Pods-Abstract-BaseTestTests.modulemap";
 				MTL_ENABLE_DEBUG_INFO = NO;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
@@ -1664,7 +1664,7 @@
 		};
 		3B87D0B565DE2661A87E94CB382117FD /* AppStore Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = F7A2214D0AE42BEEA2C0A536A5F8D8A9 /* Pods-Abstract-Swift-BaseTests.appstore debug.xcconfig */;
+			baseConfigurationReference = F7A2214D0AE42BEEA2C0A536A5F8D8A9 /* Pods-Abstract-BaseTestTests.appstore debug.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
@@ -1675,12 +1675,12 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-Abstract-Swift-BaseTests/Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-Abstract-BaseTestTests/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-Abstract-Swift-BaseTests/Pods-Abstract-Swift-BaseTests.modulemap";
+				MODULEMAP_FILE = "Target Support Files/Pods-Abstract-BaseTestTests/Pods-Abstract-BaseTestTests.modulemap";
 				MTL_ENABLE_DEBUG_INFO = NO;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
@@ -1726,7 +1726,7 @@
 		};
 		3E0182B5F33E9B44DE3A246D8562CA87 /* Release Staging */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = C12FECEFA4B3B50F0A160007031C6126 /* Pods-Abstract-Swift-BaseUITests.release staging.xcconfig */;
+			baseConfigurationReference = C12FECEFA4B3B50F0A160007031C6126 /* Pods-Abstract-BaseTestUITests.release staging.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
@@ -1737,12 +1737,12 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-Abstract-Swift-BaseUITests/Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-Abstract-BaseTestUITests/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-Abstract-Swift-BaseUITests/Pods-Abstract-Swift-BaseUITests.modulemap";
+				MODULEMAP_FILE = "Target Support Files/Pods-Abstract-BaseTestUITests/Pods-Abstract-BaseTestUITests.modulemap";
 				MTL_ENABLE_DEBUG_INFO = NO;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
@@ -1825,7 +1825,7 @@
 		};
 		48ED10EACD83AB7FC0F03AA1731CFC4B /* Test */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 21A04D41D52ACFB9FC0F17EAE104A2C1 /* Pods-Abstract-Swift-BaseUITests.test.xcconfig */;
+			baseConfigurationReference = 21A04D41D52ACFB9FC0F17EAE104A2C1 /* Pods-Abstract-BaseTestUITests.test.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
@@ -1836,12 +1836,12 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-Abstract-Swift-BaseUITests/Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-Abstract-BaseTestUITests/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-Abstract-Swift-BaseUITests/Pods-Abstract-Swift-BaseUITests.modulemap";
+				MODULEMAP_FILE = "Target Support Files/Pods-Abstract-BaseTestUITests/Pods-Abstract-BaseTestUITests.modulemap";
 				MTL_ENABLE_DEBUG_INFO = NO;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
@@ -1858,7 +1858,7 @@
 		};
 		4909C8478D3DA51F0C8B4CEBF70028DA /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 18904D86ED9554FAAD8378221C61CEE7 /* Pods-Abstract-Swift-BaseTests.debug.xcconfig */;
+			baseConfigurationReference = 18904D86ED9554FAAD8378221C61CEE7 /* Pods-Abstract-BaseTestTests.debug.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
@@ -1869,12 +1869,12 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-Abstract-Swift-BaseTests/Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-Abstract-BaseTestTests/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-Abstract-Swift-BaseTests/Pods-Abstract-Swift-BaseTests.modulemap";
+				MODULEMAP_FILE = "Target Support Files/Pods-Abstract-BaseTestTests/Pods-Abstract-BaseTestTests.modulemap";
 				MTL_ENABLE_DEBUG_INFO = YES;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
@@ -1950,7 +1950,7 @@
 		};
 		4C1D8B7366252286E8CEFC248C9E61A6 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = C538171DF1F099DE1F8D10CCF64D642A /* Pods-Abstract-Swift-BaseUITests.debug.xcconfig */;
+			baseConfigurationReference = C538171DF1F099DE1F8D10CCF64D642A /* Pods-Abstract-BaseTestUITests.debug.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
@@ -1961,12 +1961,12 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-Abstract-Swift-BaseUITests/Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-Abstract-BaseTestUITests/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-Abstract-Swift-BaseUITests/Pods-Abstract-Swift-BaseUITests.modulemap";
+				MODULEMAP_FILE = "Target Support Files/Pods-Abstract-BaseTestUITests/Pods-Abstract-BaseTestUITests.modulemap";
 				MTL_ENABLE_DEBUG_INFO = YES;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
@@ -1984,7 +1984,7 @@
 		};
 		4C529987951696F4393A70B8253BEBB5 /* AppStore */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8768CB74047F80A9F6E31C717A34C92F /* Pods-Abstract-Swift-BaseTests.appstore.xcconfig */;
+			baseConfigurationReference = 8768CB74047F80A9F6E31C717A34C92F /* Pods-Abstract-BaseTestTests.appstore.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
@@ -1995,12 +1995,12 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-Abstract-Swift-BaseTests/Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-Abstract-BaseTestTests/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-Abstract-Swift-BaseTests/Pods-Abstract-Swift-BaseTests.modulemap";
+				MODULEMAP_FILE = "Target Support Files/Pods-Abstract-BaseTestTests/Pods-Abstract-BaseTestTests.modulemap";
 				MTL_ENABLE_DEBUG_INFO = NO;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
@@ -2047,7 +2047,7 @@
 		};
 		558CA1F237F1C8C316E01EA5B1D96B80 /* AppStore Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 811BE53BC6F16D359DB71B97877D588C /* Pods-Abstract-Swift-BaseUITests.appstore debug.xcconfig */;
+			baseConfigurationReference = 811BE53BC6F16D359DB71B97877D588C /* Pods-Abstract-BaseTestUITests.appstore debug.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
@@ -2058,12 +2058,12 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-Abstract-Swift-BaseUITests/Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-Abstract-BaseTestUITests/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-Abstract-Swift-BaseUITests/Pods-Abstract-Swift-BaseUITests.modulemap";
+				MODULEMAP_FILE = "Target Support Files/Pods-Abstract-BaseTestUITests/Pods-Abstract-BaseTestUITests.modulemap";
 				MTL_ENABLE_DEBUG_INFO = NO;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
@@ -2118,7 +2118,7 @@
 		};
 		67BABBBD49C1831CE7C5C021B8E750CF /* Release Staging */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = B425B3B0E7AE099323B2CD289E9066A9 /* Pods-Abstract-Swift-Base.release staging.xcconfig */;
+			baseConfigurationReference = B425B3B0E7AE099323B2CD289E9066A9 /* Pods-Abstract-BaseTest.release staging.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
@@ -2129,12 +2129,12 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-Abstract-Swift-Base/Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-Abstract-BaseTest/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-Abstract-Swift-Base/Pods-Abstract-Swift-Base.modulemap";
+				MODULEMAP_FILE = "Target Support Files/Pods-Abstract-BaseTest/Pods-Abstract-BaseTest.modulemap";
 				MTL_ENABLE_DEBUG_INFO = NO;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
@@ -2238,7 +2238,7 @@
 		};
 		8806B66723A022096E6B2EE13A2CCD9E /* Test Staging */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = B46F923C2063110D98BC936D027B350D /* Pods-Abstract-Swift-BaseTests.test staging.xcconfig */;
+			baseConfigurationReference = B46F923C2063110D98BC936D027B350D /* Pods-Abstract-BaseTestTests.test staging.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
@@ -2249,12 +2249,12 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-Abstract-Swift-BaseTests/Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-Abstract-BaseTestTests/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-Abstract-Swift-BaseTests/Pods-Abstract-Swift-BaseTests.modulemap";
+				MODULEMAP_FILE = "Target Support Files/Pods-Abstract-BaseTestTests/Pods-Abstract-BaseTestTests.modulemap";
 				MTL_ENABLE_DEBUG_INFO = NO;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
@@ -2366,7 +2366,7 @@
 		};
 		95E55CAAD7838371BCF1FE0574B0301C /* Test Staging */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 4217D728C94CDE166E7B0ADB5AABD63E /* Pods-Abstract-Swift-Base.test staging.xcconfig */;
+			baseConfigurationReference = 4217D728C94CDE166E7B0ADB5AABD63E /* Pods-Abstract-BaseTest.test staging.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
@@ -2377,12 +2377,12 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-Abstract-Swift-Base/Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-Abstract-BaseTest/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-Abstract-Swift-Base/Pods-Abstract-Swift-Base.modulemap";
+				MODULEMAP_FILE = "Target Support Files/Pods-Abstract-BaseTest/Pods-Abstract-BaseTest.modulemap";
 				MTL_ENABLE_DEBUG_INFO = NO;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
@@ -2399,7 +2399,7 @@
 		};
 		99C90CD950A0FC9808DA5406FCC300B6 /* Debug Staging */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = D86871AF2439679D191FB40DA285FED0 /* Pods-Abstract-Swift-BaseTests.debug staging.xcconfig */;
+			baseConfigurationReference = D86871AF2439679D191FB40DA285FED0 /* Pods-Abstract-BaseTestTests.debug staging.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
@@ -2410,12 +2410,12 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-Abstract-Swift-BaseTests/Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-Abstract-BaseTestTests/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-Abstract-Swift-BaseTests/Pods-Abstract-Swift-BaseTests.modulemap";
+				MODULEMAP_FILE = "Target Support Files/Pods-Abstract-BaseTestTests/Pods-Abstract-BaseTestTests.modulemap";
 				MTL_ENABLE_DEBUG_INFO = NO;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
@@ -2432,7 +2432,7 @@
 		};
 		9B8591294FC4A021141B40D2ACA5AA14 /* AppStore */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 461012D670D1FD4BB2567D4F73D27C43 /* Pods-Abstract-Swift-Base.appstore.xcconfig */;
+			baseConfigurationReference = 461012D670D1FD4BB2567D4F73D27C43 /* Pods-Abstract-BaseTest.appstore.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
@@ -2443,12 +2443,12 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-Abstract-Swift-Base/Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-Abstract-BaseTest/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-Abstract-Swift-Base/Pods-Abstract-Swift-Base.modulemap";
+				MODULEMAP_FILE = "Target Support Files/Pods-Abstract-BaseTest/Pods-Abstract-BaseTest.modulemap";
 				MTL_ENABLE_DEBUG_INFO = NO;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
@@ -2494,7 +2494,7 @@
 		};
 		9F42F42D99589F571CB5FDB64474E35A /* AppStore */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 1780ECDAD9C3685A1B015B7364C2D90F /* Pods-Abstract-Swift-BaseUITests.appstore.xcconfig */;
+			baseConfigurationReference = 1780ECDAD9C3685A1B015B7364C2D90F /* Pods-Abstract-BaseTestUITests.appstore.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
@@ -2505,12 +2505,12 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-Abstract-Swift-BaseUITests/Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-Abstract-BaseTestUITests/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-Abstract-Swift-BaseUITests/Pods-Abstract-Swift-BaseUITests.modulemap";
+				MODULEMAP_FILE = "Target Support Files/Pods-Abstract-BaseTestUITests/Pods-Abstract-BaseTestUITests.modulemap";
 				MTL_ENABLE_DEBUG_INFO = NO;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
@@ -2527,7 +2527,7 @@
 		};
 		A14A0AE4FB71775C3EAD571FF223D554 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 133837E9A2820D9FF2193315947E24A6 /* Pods-Abstract-Swift-Base.debug.xcconfig */;
+			baseConfigurationReference = 133837E9A2820D9FF2193315947E24A6 /* Pods-Abstract-BaseTest.debug.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
@@ -2538,12 +2538,12 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-Abstract-Swift-Base/Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-Abstract-BaseTest/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-Abstract-Swift-Base/Pods-Abstract-Swift-Base.modulemap";
+				MODULEMAP_FILE = "Target Support Files/Pods-Abstract-BaseTest/Pods-Abstract-BaseTest.modulemap";
 				MTL_ENABLE_DEBUG_INFO = YES;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
@@ -2627,7 +2627,7 @@
 		};
 		AC35EB90BBE874E530CE75A18A512B79 /* Debug Staging */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = FCFEADEE7B63E12CC9B5BA691D46D73D /* Pods-Abstract-Swift-BaseUITests.debug staging.xcconfig */;
+			baseConfigurationReference = FCFEADEE7B63E12CC9B5BA691D46D73D /* Pods-Abstract-BaseTestUITests.debug staging.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
@@ -2638,12 +2638,12 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-Abstract-Swift-BaseUITests/Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-Abstract-BaseTestUITests/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-Abstract-Swift-BaseUITests/Pods-Abstract-Swift-BaseUITests.modulemap";
+				MODULEMAP_FILE = "Target Support Files/Pods-Abstract-BaseTestUITests/Pods-Abstract-BaseTestUITests.modulemap";
 				MTL_ENABLE_DEBUG_INFO = NO;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
@@ -2660,7 +2660,7 @@
 		};
 		B119AA6B7EB8F0AFF3A06CE5CFE45027 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = BEA8F6FFB6B4706DACEFFB959E85A2E2 /* Pods-Abstract-Swift-Base.release.xcconfig */;
+			baseConfigurationReference = BEA8F6FFB6B4706DACEFFB959E85A2E2 /* Pods-Abstract-BaseTest.release.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
@@ -2671,12 +2671,12 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-Abstract-Swift-Base/Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-Abstract-BaseTest/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-Abstract-Swift-Base/Pods-Abstract-Swift-Base.modulemap";
+				MODULEMAP_FILE = "Target Support Files/Pods-Abstract-BaseTest/Pods-Abstract-BaseTest.modulemap";
 				MTL_ENABLE_DEBUG_INFO = NO;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
@@ -2780,7 +2780,7 @@
 		};
 		B7D023BF5C5A99BAA428365DC4CC1A12 /* Test Staging */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = C14A80B1DDF59E185932EB2D5CE2EB4D /* Pods-Abstract-Swift-BaseUITests.test staging.xcconfig */;
+			baseConfigurationReference = C14A80B1DDF59E185932EB2D5CE2EB4D /* Pods-Abstract-BaseTestUITests.test staging.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
@@ -2791,12 +2791,12 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-Abstract-Swift-BaseUITests/Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-Abstract-BaseTestUITests/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-Abstract-Swift-BaseUITests/Pods-Abstract-Swift-BaseUITests.modulemap";
+				MODULEMAP_FILE = "Target Support Files/Pods-Abstract-BaseTestUITests/Pods-Abstract-BaseTestUITests.modulemap";
 				MTL_ENABLE_DEBUG_INFO = NO;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
@@ -2813,7 +2813,7 @@
 		};
 		BC841F8BC135A5CA2D1095CFFB0C651D /* Debug Staging */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = BEB943BA7CB4D70419CE9BDA4E3C3143 /* Pods-Abstract-Swift-Base.debug staging.xcconfig */;
+			baseConfigurationReference = BEB943BA7CB4D70419CE9BDA4E3C3143 /* Pods-Abstract-BaseTest.debug staging.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
@@ -2824,12 +2824,12 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-Abstract-Swift-Base/Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-Abstract-BaseTest/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-Abstract-Swift-Base/Pods-Abstract-Swift-Base.modulemap";
+				MODULEMAP_FILE = "Target Support Files/Pods-Abstract-BaseTest/Pods-Abstract-BaseTest.modulemap";
 				MTL_ENABLE_DEBUG_INFO = NO;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
@@ -2846,7 +2846,7 @@
 		};
 		C2288AA213C368D1F11595FC831F1062 /* AppStore Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = BD894F116AE90258A166D273495BE0C0 /* Pods-Abstract-Swift-Base.appstore debug.xcconfig */;
+			baseConfigurationReference = BD894F116AE90258A166D273495BE0C0 /* Pods-Abstract-BaseTest.appstore debug.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
@@ -2857,12 +2857,12 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-Abstract-Swift-Base/Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-Abstract-BaseTest/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-Abstract-Swift-Base/Pods-Abstract-Swift-Base.modulemap";
+				MODULEMAP_FILE = "Target Support Files/Pods-Abstract-BaseTest/Pods-Abstract-BaseTest.modulemap";
 				MTL_ENABLE_DEBUG_INFO = NO;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
@@ -2966,7 +2966,7 @@
 		};
 		E7887CE59A59D8AFBF3EE3E51DA3C9C2 /* Release Staging */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5D826BE60B03B9AF42EA2997CFB21C05 /* Pods-Abstract-Swift-BaseTests.release staging.xcconfig */;
+			baseConfigurationReference = 5D826BE60B03B9AF42EA2997CFB21C05 /* Pods-Abstract-BaseTestTests.release staging.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
@@ -2977,12 +2977,12 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-Abstract-Swift-BaseTests/Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-Abstract-BaseTestTests/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-Abstract-Swift-BaseTests/Pods-Abstract-Swift-BaseTests.modulemap";
+				MODULEMAP_FILE = "Target Support Files/Pods-Abstract-BaseTestTests/Pods-Abstract-BaseTestTests.modulemap";
 				MTL_ENABLE_DEBUG_INFO = NO;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
@@ -3036,7 +3036,7 @@
 		};
 		FFFEF6D33797AC24E68A7EC9F2421CD9 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 948C70A2F9570EFE6162101B289F461A /* Pods-Abstract-Swift-BaseUITests.release.xcconfig */;
+			baseConfigurationReference = 948C70A2F9570EFE6162101B289F461A /* Pods-Abstract-BaseTestUITests.release.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
@@ -3047,12 +3047,12 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-Abstract-Swift-BaseUITests/Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-Abstract-BaseTestUITests/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-Abstract-Swift-BaseUITests/Pods-Abstract-Swift-BaseUITests.modulemap";
+				MODULEMAP_FILE = "Target Support Files/Pods-Abstract-BaseTestUITests/Pods-Abstract-BaseTestUITests.modulemap";
 				MTL_ENABLE_DEBUG_INFO = NO;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
@@ -3085,7 +3085,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2B3BE3887B7B6D6357FB99E66E2D9C2A /* Build configuration list for PBXNativeTarget "Pods-Abstract-Swift-Base" */ = {
+		2B3BE3887B7B6D6357FB99E66E2D9C2A /* Build configuration list for PBXNativeTarget "Pods-Abstract-BaseTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9B8591294FC4A021141B40D2ACA5AA14 /* AppStore */,
@@ -3115,7 +3115,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B304C4CD6455FB334D6A21CAEFF812A1 /* Build configuration list for PBXNativeTarget "Pods-Abstract-Swift-BaseTests" */ = {
+		B304C4CD6455FB334D6A21CAEFF812A1 /* Build configuration list for PBXNativeTarget "Pods-Abstract-BaseTestTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4C529987951696F4393A70B8253BEBB5 /* AppStore */,
@@ -3160,7 +3160,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		FF4669246C9493103D76FB38826B0540 /* Build configuration list for PBXNativeTarget "Pods-Abstract-Swift-BaseUITests" */ = {
+		FF4669246C9493103D76FB38826B0540 /* Build configuration list for PBXNativeTarget "Pods-Abstract-BaseTestUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9F42F42D99589F571CB5FDB64474E35A /* AppStore */,

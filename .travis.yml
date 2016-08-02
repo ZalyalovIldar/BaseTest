@@ -1,6 +1,6 @@
 language: objective-c
 
-xcode_workspace: Swift-Base.xcworkspace
+xcode_workspace: BaseTest.xcworkspace
 xcode_scheme: Staging
 
 before_install:
@@ -11,8 +11,8 @@ install:
     - pod install
 
 script:
-    - ./Swift-Base/Scripts/build.sh
-    - ./Swift-Base/Scripts/test.sh
+    - ./BaseTest/Scripts/build.sh
+    - ./BaseTest/Scripts/test.sh
 
 branches:
     only:

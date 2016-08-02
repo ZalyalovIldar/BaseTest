@@ -14,13 +14,13 @@ abstract_target 'Abstract' do
     pod 'AFNetworking'
     pod 'MagicalRecord'
     
-    target 'Swift-Base' do
+    target 'BaseTest' do
     end
     
-    target 'Swift-BaseTests' do
+    target 'BaseTestTests' do
     end
     
-    target 'Swift-BaseUITests' do
+    target 'BaseTestUITests' do
     end
 end
 
